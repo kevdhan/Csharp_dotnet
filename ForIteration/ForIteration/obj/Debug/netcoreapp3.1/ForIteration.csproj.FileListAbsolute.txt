@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.dll
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/bin/Debug/netcoreapp3.1/ForIteration.pdb
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.dll
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.pdb
+/Users/kevhan/Documents/Csharp_dotnet/ForIteration/ForIteration/obj/Debug/netcoreapp3.1/ForIteration.genruntimeconfig.cache

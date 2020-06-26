@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{F1EE0AC8-A4A9-4963-AD1F-829ACECACCBA}|Default">
-  <MonoDevelop.Ide.ItemProperties.ForIteration PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ForIteration/Program.cs">
+﻿<Properties StartupConfiguration="{BC234A98-4941-45CD-8FC0-01BA9CDFDD58}|Default">
+  <MonoDevelop.Ide.ItemProperties.UnderstandingArrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingArrays/Program.cs">
     <Files>
-      <File FileName="ForIteration/Program.cs" Line="32" Column="1" />
+      <File FileName="UnderstandingArrays/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ForIteration" expanded="True">
-            <Node name="ForIteration" expanded="True">
+          <Node name="UnderstandingArrays" expanded="True">
+            <Node name="UnderstandingArrays" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

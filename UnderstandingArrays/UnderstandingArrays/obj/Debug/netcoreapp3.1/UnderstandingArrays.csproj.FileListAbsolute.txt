@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp3.1/UnderstandingArrays.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp3.1/UnderstandingArrays.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp3.1/UnderstandingArrays.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp3.1/UnderstandingArrays.dll
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/bin/Debug/netcoreapp3.1/UnderstandingArrays.pdb
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp3.1/UnderstandingArrays.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp3.1/UnderstandingArrays.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp3.1/UnderstandingArrays.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp3.1/UnderstandingArrays.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp3.1/UnderstandingArrays.dll
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp3.1/UnderstandingArrays.pdb
+/Users/kevhan/Documents/Csharp_dotnet/UnderstandingArrays/UnderstandingArrays/obj/Debug/netcoreapp3.1/UnderstandingArrays.genruntimeconfig.cache

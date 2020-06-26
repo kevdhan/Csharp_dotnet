@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevhan/Documents/Csharp_dotnet/HelloWorld/HelloWorld/HelloWorld.csproj": {}
+    "/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/Decisions.csproj": {}
   },
   "projects": {
-    "/Users/kevhan/Documents/Csharp_dotnet/HelloWorld/HelloWorld/HelloWorld.csproj": {
+    "/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/Decisions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/HelloWorld/HelloWorld/HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/Decisions.csproj",
+        "projectName": "Decisions",
+        "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/Decisions.csproj",
         "packagesPath": "/Users/kevhan/.nuget/packages/",
-        "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/HelloWorld/HelloWorld/obj/",
+        "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kevhan/.config/NuGet/NuGet.Config"

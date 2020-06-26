@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/4mh6ESejmnDdneCc4ElopW3u0kc7nWVQgLxbEE0N7OpFv1/7le+IgbPzWLfA/CMs87dbrrD/nWzEKHDqyrIrA==",
+  "dgSpecHash": "ij8bwr2ib4QOGT+q5f9+9BTmkVL9tc3BYfGGS36h9msj6d8SmsyOpgM0Kik6E9JhPDmGyvIi+L+zOZg+gjd00A==",
   "success": true,
-  "projectFilePath": "/Users/kevhan/Documents/C#_Journey/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/kevhan/Documents/Csharp_dotnet/HelloWorld/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

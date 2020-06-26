@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.dll
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/bin/Debug/netcoreapp3.1/Decisions.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.dll
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Decisions/Decisions/obj/Debug/netcoreapp3.1/Decisions.genruntimeconfig.cache

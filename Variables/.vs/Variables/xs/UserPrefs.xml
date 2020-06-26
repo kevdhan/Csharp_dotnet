@@ -1,14 +1,15 @@
-﻿<Properties StartupConfiguration="{F10C1B29-7C51-4909-82C1-D64A05B5B774}|Default">
-  <MonoDevelop.Ide.ItemProperties.Decisions PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Decisions/Program.cs">
+﻿<Properties StartupConfiguration="{B4795EF3-AB43-403B-AD52-6FE560BAAF5C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Variables/Program.cs">
     <Files>
-      <File FileName="Decisions/Program.cs" Line="58" Column="100" />
+      <File FileName="Variables/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Decisions" expanded="True">
-            <Node name="Decisions" expanded="True" />
+          <Node name="Variables" expanded="True">
+            <Node name="Variables" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -17,6 +18,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Variables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

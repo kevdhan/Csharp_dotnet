@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.dll
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/bin/Debug/netcoreapp3.1/HelperMethods.pdb
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.dll
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.pdb
+/Users/kevhan/Documents/Csharp_dotnet/HelperMethods/HelperMethods/obj/Debug/netcoreapp3.1/HelperMethods.genruntimeconfig.cache

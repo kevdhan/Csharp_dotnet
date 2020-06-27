@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.dll
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/bin/Debug/netcoreapp3.1/SimpleMethod.pdb
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.dll
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.pdb
+/Users/kevhan/Documents/Csharp_dotnet/SimpleMethod/SimpleMethod/obj/Debug/netcoreapp3.1/SimpleMethod.genruntimeconfig.cache

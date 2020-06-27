@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{BC234A98-4941-45CD-8FC0-01BA9CDFDD58}|Default">
-  <MonoDevelop.Ide.ItemProperties.UnderstandingArrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingArrays/Program.cs">
+﻿<Properties StartupConfiguration="{790BAE0C-9D9D-4D17-AAE5-E68FF8FEE1D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMethod/Program.cs">
     <Files>
-      <File FileName="UnderstandingArrays/Program.cs" Line="20" Column="55" />
+      <File FileName="SimpleMethod/Program.cs" Line="18" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="UnderstandingArrays" expanded="True">
-            <Node name="UnderstandingArrays" expanded="True">
+          <Node name="SimpleMethod" expanded="True">
+            <Node name="SimpleMethod" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,6 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SimpleMethod PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

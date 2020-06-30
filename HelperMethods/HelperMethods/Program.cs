@@ -49,11 +49,23 @@ namespace HelperMethods
             }
             */
 
+            /*
             Console.Write("Results: ");
+            DisplayResult(firstName, lastName, city);
+            Console.WriteLine();
+            */
 
-            ReverseString(firstName);
-            ReverseString(lastName);
-            ReverseString(city);
+            // good practice to not have methods within methods if possible
+            DisplayResult(ReverseString(firstName) + " "
+                + ReverseString(lastName) + " "
+                + ReverseString(city));
+
+            /*
+            Console.Write(String.Format("{0} {1} {2}",
+                ReverseString(firstName),
+                ReverseString(lastName),
+                ReverseString(city)));
+            */
         }
 
         /* creating method to reduce redundancy in code
@@ -61,7 +73,7 @@ namespace HelperMethods
          * 2. converting it into an array of chars
          * 3. reversing the order
          * 4. printing out the char's
-         */
+         
         private static void ReverseString(string message) // adding input parameter to method
         {
 
@@ -77,6 +89,33 @@ namespace HelperMethods
                 Console.Write(item);
             }
             Console.Write(" "); // adding space
+        }
+        */
+
+        // making the method more function specific, only returns the reversed String
+        private static string ReverseString(string message) // adding input parameter to method
+        {
+            // reversing string
+            char[] messageArray = message.ToCharArray(); // converting string into an array of char's
+            Array.Reverse(messageArray); // reversing the array
+
+            return String.Concat(messageArray);
+        }
+
+        private static void DisplayResult(string firstName, string lastName, string city)
+        {
+            Console.Write("Results: ");
+            Console.WriteLine(String.Format("{0} {1} {2}",
+                firstName,
+                lastName,
+                city));
+        }
+
+        // same method, different # of parameters
+        private static void DisplayResult(string message)
+        {
+            Console.Write("Results: ");
+            Console.WriteLine(String.Format("{0}", message));
         }
     }
 }

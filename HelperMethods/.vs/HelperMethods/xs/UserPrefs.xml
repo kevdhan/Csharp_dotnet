@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{5BA516EF-E91B-4FDE-9306-1007CD2E9809}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelperMethods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HelperMethods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelperMethods/Program.cs">
     <Files>
-      <File FileName="HelperMethods/Program.cs" Line="1" Column="1" />
+      <File FileName="HelperMethods/Program.cs" Line="58" Column="76" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

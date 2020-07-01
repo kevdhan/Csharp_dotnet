@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{5BA516EF-E91B-4FDE-9306-1007CD2E9809}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelperMethods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelperMethods/Program.cs">
+﻿<Properties StartupConfiguration="{85BC25FC-9D45-42DE-9246-C624EEF9783B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhileIteration/Program.cs">
     <Files>
-      <File FileName="HelperMethods/Program.cs" Line="61" Column="40" />
+      <File FileName="WhileIteration/Program.cs" Line="24" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelperMethods" expanded="True">
-            <Node name="HelperMethods" expanded="True">
+          <Node name="WhileIteration" expanded="True">
+            <Node name="WhileIteration" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,6 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WhileIteration PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

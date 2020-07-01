@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.dll
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/bin/Debug/netcoreapp3.1/WhileIteration.pdb
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.dll
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.pdb
+/Users/kevhan/Documents/Csharp_dotnet/WhileIteration/WhileIteration/obj/Debug/netcoreapp3.1/WhileIteration.genruntimeconfig.cache

@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{E7EB30E4-011D-4351-87B7-882CB39755A2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithStrings/Program.cs">
+﻿<Properties StartupConfiguration="{DF591EF3-E090-4BAA-9AA3-62B232E67524}|Default">
+  <MonoDevelop.Ide.ItemProperties.DatesAndTimes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatesAndTimes/Program.cs">
     <Files>
-      <File FileName="WorkingWithStrings/Program.cs" Line="16" Column="1" />
+      <File FileName="DatesAndTimes/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WorkingWithStrings" expanded="True">
-            <Node name="WorkingWithStrings" expanded="True">
+          <Node name="DatesAndTimes" expanded="True">
+            <Node name="DatesAndTimes" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WorkingWithStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

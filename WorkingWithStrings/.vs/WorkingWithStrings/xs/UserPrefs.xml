@@ -1,26 +1,23 @@
-﻿<Properties StartupConfiguration="{85BC25FC-9D45-42DE-9246-C624EEF9783B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhileIteration/Program.cs">
+﻿<Properties StartupConfiguration="{E7EB30E4-011D-4351-87B7-882CB39755A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithStrings/Program.cs">
     <Files>
-      <File FileName="WhileIteration/Program.cs" Line="58" Column="14" />
+      <File FileName="WorkingWithStrings/Program.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WhileIteration" expanded="True">
-            <Node name="WhileIteration" expanded="True">
+          <Node name="WorkingWithStrings" expanded="True">
+            <Node name="WorkingWithStrings" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.WhileIteration PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

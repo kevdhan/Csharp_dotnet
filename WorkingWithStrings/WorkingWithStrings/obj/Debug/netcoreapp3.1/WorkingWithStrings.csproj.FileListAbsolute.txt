@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.dll
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/bin/Debug/netcoreapp3.1/WorkingWithStrings.pdb
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.dll
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.pdb
+/Users/kevhan/Documents/Csharp_dotnet/WorkingWithStrings/WorkingWithStrings/obj/Debug/netcoreapp3.1/WorkingWithStrings.genruntimeconfig.cache

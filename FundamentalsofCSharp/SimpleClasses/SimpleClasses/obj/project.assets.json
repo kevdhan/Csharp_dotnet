@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingArrays/UnderstandingArrays/UnderstandingArrays.csproj",
-      "projectName": "UnderstandingArrays",
-      "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingArrays/UnderstandingArrays/UnderstandingArrays.csproj",
+      "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/SimpleClasses/SimpleClasses/SimpleClasses.csproj",
+      "projectName": "SimpleClasses",
+      "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/SimpleClasses/SimpleClasses/SimpleClasses.csproj",
       "packagesPath": "/Users/kevhan/.nuget/packages/",
-      "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingArrays/UnderstandingArrays/obj/",
+      "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/SimpleClasses/SimpleClasses/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevhan/.config/NuGet/NuGet.Config"

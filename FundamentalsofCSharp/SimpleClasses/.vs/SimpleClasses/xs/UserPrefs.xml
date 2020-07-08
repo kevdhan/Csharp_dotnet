@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{DF591EF3-E090-4BAA-9AA3-62B232E67524}|Default">
-  <MonoDevelop.Ide.ItemProperties.DatesAndTimes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DatesAndTimes/Program.cs">
+﻿<Properties StartupConfiguration="{C6129739-6700-46C5-9C21-132A911E636A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleClasses/Program.cs">
     <Files>
-      <File FileName="DatesAndTimes/Program.cs" Line="35" Column="15" />
+      <File FileName="SimpleClasses/Program.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DatesAndTimes" expanded="True">
-            <Node name="DatesAndTimes" expanded="True">
+          <Node name="SimpleClasses" expanded="True">
+            <Node name="SimpleClasses" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SimpleClasses FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

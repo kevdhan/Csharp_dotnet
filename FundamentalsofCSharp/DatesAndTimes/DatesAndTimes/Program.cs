@@ -30,12 +30,12 @@ namespace DatesAndTimes
 
             // creating custom datetime --> remember to convert to string before printing
             /*
-            DateTime myBirthday = new DateTime(1996, 12, 31);
+            DateTime myBirthday = new DateTime(1996, 12, 31); // different way to instantiate a DateTime, different constructor
             Console.WriteLine(myBirthday.ToShortDateString());
             */
 
 
-            // parsing string to DateTime
+            // inputting a string and converting to DateTime
             DateTime myBirthday = DateTime.Parse("12/31/1996"); // parsing string to DateTime
             TimeSpan myAge = DateTime.Now.Subtract(myBirthday); // creating a new class called TimeSpan
             Console.WriteLine(myAge.TotalDays);

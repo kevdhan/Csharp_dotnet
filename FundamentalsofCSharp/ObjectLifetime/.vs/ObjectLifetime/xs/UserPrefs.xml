@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{AB7C9BA2-0EF0-41FB-BC17-13F97E2DB74E}|Default">
-  <MonoDevelop.Ide.ItemProperties.ObjectLifetime FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ObjectLifetime PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ObjectLifetime/Program.cs">
     <Files>
-      <File FileName="ObjectLifetime/Program.cs" Line="12" Column="14" />
+      <File FileName="ObjectLifetime/Program.cs" Line="28" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

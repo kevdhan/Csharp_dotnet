@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/bin/Debug/netcoreapp3.1/ObjectLifetime.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ObjectLifetime/ObjectLifetime/obj/Debug/netcoreapp3.1/ObjectLifetime.genruntimeconfig.cache

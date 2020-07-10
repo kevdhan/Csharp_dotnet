@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/bin/Debug/netcoreapp3.1/UnderstandingScope.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/UnderstandingScope/UnderstandingScope/obj/Debug/netcoreapp3.1/UnderstandingScope.genruntimeconfig.cache

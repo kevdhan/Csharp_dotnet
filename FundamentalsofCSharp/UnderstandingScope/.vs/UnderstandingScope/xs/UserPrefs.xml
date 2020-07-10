@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{AB7C9BA2-0EF0-41FB-BC17-13F97E2DB74E}|Default">
-  <MonoDevelop.Ide.ItemProperties.ObjectLifetime PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectLifetime/Program.cs">
+﻿<Properties StartupConfiguration="{5408976F-9ACA-40D9-9F48-1BE2DEB5125D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingScope/Program.cs">
     <Files>
-      <File FileName="ObjectLifetime/Program.cs" Line="114" Column="12" />
+      <File FileName="UnderstandingScope/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ObjectLifetime" expanded="True">
-            <Node name="ObjectLifetime" expanded="True">
+          <Node name="UnderstandingScope" expanded="True">
+            <Node name="UnderstandingScope" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UnderstandingScope FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

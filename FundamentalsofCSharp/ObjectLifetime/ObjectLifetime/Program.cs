@@ -111,7 +111,9 @@ namespace ObjectLifetime
 
 
         /* creating a static method. Does not operate on a single instance.
+         * 
          * Static v.s. Instace members of a class
+         * 
          * Cannot use non static variables/methods
         */
         public static void PrintCar()

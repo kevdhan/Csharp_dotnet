@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class=" is-full home has-default-focus theme-light" lang="en-us" dir="ltr" data-css-variable-support="true" data-authenticated="false" data-auth-status-determined="false" data-target="docs" x-ms-format-detection="none">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta property="og:title" content="Technical documentation, API, and code examples" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://docs.microsoft.com/en-us/" />
+			<meta property="og:description" content="Get the latest Microsoft documentation for end users, developers and IT professionals: API reference, code examples, technical documentation, and more." />
+		<meta property="og:image" content="https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png" />
+		<meta property="og:image:alt" content="Microsoft Logo" />
+
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@docsmsft" />
+
+<meta name="ms.sitename" content="DOCS" />
+	<meta name="breadcrumb_path" content="/breadcrumb/toc.json" />
+<meta name="asset_id" content="d21b98e5-cdf2-4cec-bd88-395e2e51b641" />
+<meta name="author" content="adkinn" />
+<meta name="description" content="Get the latest Microsoft documentation for end users, developers and IT professionals: API reference, code examples, technical documentation, and more." />
+<meta name="ms.topic" content="hub-page" />
+<meta name="ms.prod" content="non-product-specific" />
+<meta name="search.ms_sitename" content="Docs" />
+<meta name="search.ms_docsetname" content="DocsCoreContent" />
+<meta name="locale" content="en-us" />
+<meta name="site_name" content="Docs" />
+<meta name="search.ms_product" content="MSDN" />
+<meta name="depot_name" content="MSDN.DocsCoreContent" />
+<meta name="updated_at" content="2020-07-01 11:41 PM" />
+<meta name="gitcommit" content="https://github.com/MicrosoftDocs/DocsRoot/blob/8dd9e5da3f2c8c5325993b619c71547f5fa287b3/DocsCoreContent/index.md" />
+<meta name="original_content_git_url" content="https://github.com/MicrosoftDocs/DocsRoot/blob/live/DocsCoreContent/index.md" />
+<meta name="document_id" content="af927846-3ae1-6304-096a-89164dbc204a" />
+<meta name="document_version_independent_id" content="568a65ba-5905-2775-c30c-f5412d9c68c3" />
+<meta name="page_type" content="home" />
+<meta name="page_kind" content="docs" />
+<meta name="word_count" content="199" />
+
+
+<link href="https://docs.microsoft.com/en-us/" rel="canonical">
+	<title>Technical documentation, API, and code examples | Microsoft Docs</title>
+
+		<link rel="stylesheet" href="/_themes/docs.theme/master/en-us/_themes/styles/ceb54b02.site-ltr.css ">
+
+	<link rel="stylesheet" href="/_themes/docs.theme/master/en-us/_themes/styles/6ffd7588.home.css ">
+
+
+	<script>
+	var msDocs = {
+		data: {
+			timeOrigin: Date.now(),
+			contentLocale: 'en-us',
+			contentDir: 'ltr',
+			userLocale: 'en-us',
+			userDir: 'ltr',
+			pageTemplate: 'Home',
+			brand: '',
+			context: {
+
+			},
+			hasBinaryRating: false,
+			hasGithubIssues: false,
+			showFeedbackReport: false,
+			enableTutorialFeedback: false,
+			feedbackSystem: 'None',
+			feedbackGitHubRepo: '',
+			feedbackProductUrl: '',
+			contentGitUrl: 'https://github.com/MicrosoftDocs/DocsRoot/blob/live/DocsCoreContent/index.md',
+			extendBreadcrumb: false,
+			isEditDisplayable: false,
+			hideViewSource: false,
+			hasPageActions: false,
+			hasBookmark: true,
+			hasShare: true
+		},
+		functions:{}
+	};
+	</script>
+	<script nomodule src="/static/third-party/bluebird/3.5.0/bluebird.min.js" integrity="sha384-aD4BDeDGeLXLpPK4yKeqtZQa9dv4a/7mQ+4L5vwshIYH1Mc2BrXvHd32iHzYCQy5" crossorigin="anonymous"></script>
+	<script nomodule src="/static/third-party/fetch/3.0.0/fetch.umd.min.js" integrity="sha384-EQIXrC5K2+7X8nGgLkB995I0/6jfAvvyG1ieZ+WYGxgJHFMD/alsG9fSDWvzb5Y1" crossorigin="anonymous"></script>
+	<script nomodule src="/static/third-party/template/1.4.0/template.min.js" integrity="sha384-1zKzI6ldTVHMU7n0W2HpE/lhHI+UG4D9IIaxbj3kT2UhCWicdTuJkTtnKuu0CQzN" crossorigin="anonymous"></script>
+	<script nomodule src="/static/third-party/url/0.5.7/url.min.js" integrity="sha384-vn7xBMtpSTfzaTRWxj0kVq0UcsbBrTOgZ/M1ISHqe1V358elYva+lfiEC+T8jLPc" crossorigin="anonymous"></script>
+	<script nomodule src="/_themes/docs.theme/master/en-us/_themes/scripts/7501e2bd.index-polyfills.js"></script>
+		<script src="/_themes/docs.theme/master/en-us/_themes/scripts/87a3687.index-docs.js"></script>
+</head>
+
+<body lang="en-us" dir="ltr">
+<div class="header-holder has-default-focus">
+	<a href="#main" class="skip-to-main-link has-outline-color-text visually-hidden-until-focused is-fixed has-inner-focus focus-visible has-top-zero has-left-zero has-right-zero has-padding-medium has-text-centered has-body-background-medium" tabindex="1">Skip to main content</a>
+		<div id="headerAreaHolder" data-bi-name="header">
+<header role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+	<div class="nav-bar">
+		<div class="nav-bar-brand">
+			<a itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" class="nav-bar-button">
+			<div class="nav-bar-logo has-background-image theme-display is-light" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+			<div class="nav-bar-logo has-background-image theme-display is-dark is-high-contrast" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+		</a>
+		</div>
+		<div class="nav-bar-item is-hidden-tablet">
+			<button class="nav-bar-button nav-bar-menu" title="Global navigation">
+				<span class="nav-bar-menu-title"></span>
+				<div class="nav-bar-burger">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span class="nav-bar-burger-label">Global navigation</span>
+				</div>
+			</button>
+		</div>
+		<nav class="nav-bar-nav" role="navigation" aria-label="Global">
+			<ul class="nav-bar-nav-list">
+				<li class="nav-bar-item is-category">
+					<a class="nav-bar-button is-title has-hover-underline" itemprop="url" href="/en-us/">
+						<span>Docs</span>
+					</a>
+				</li>
+				<li class="nav-bar-item">
+					<a class="nav-bar-button has-hover-underline" href="/en-us/">
+						<span>Documentation</span>
+					</a>
+				</li>
+				<li class="nav-bar-item">
+					<a class="nav-bar-button has-hover-underline" href="/en-us/learn/">
+						<span>Learn</span>
+					</a>
+				</li>
+				<li class="nav-bar-item">
+					<a class="nav-bar-button has-hover-underline" href="/en-us/samples/browse/">
+						<span>Code Samples</span>
+					</a>
+				</li>
+				<li class="dropdown nav-bar-item" hidden="">
+					<button aria-expanded="false" class="dropdown-trigger nav-bar-button has-hover-underline" aria-controls="ax-53">
+						<span>More</span>
+						<span class="nav-bar-button-chevron" aria-hidden="true">
+							<span class="docon docon-chevron-down-light expanded-indicator"></span>
+						</span>
+					</button>
+					<ul class="dropdown-menu" id="ax-53" aria-label="More">
+						<li class="nav-bar-item" hidden="">
+							<a class="nav-bar-button" href="/en-us/">Documentation</a>
+						</li>
+						<li class="nav-bar-item" hidden="">
+							<a class="nav-bar-button" href="/en-us/learn/">Learn</a>
+						</li>
+						<li class="nav-bar-item" hidden="">
+							<a class="nav-bar-button" href="/en-us/samples/browse/">Code Samples</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+		<span class="nav-bar-spacer"></span>
+		<div class="nav-bar-item">
+		</div>
+		<div class="nav-bar-item is-size-small is-hidden-mobile">
+		</div>
+	</div>
+	<div class="nav-bar is-content">
+	</div>
+</header>		</div>
+		<div class="content-header uhf-container has-padding has-default-focus" data-bi-name="content-header">
+		<div class="content-header-controls">
+			<button type="button" class="contents-button button" data-bi-name="contents-expand" aria-haspopup="true">
+				<span class="icon"><span class="docon docon-menu" aria-hidden="true"></span></span>
+				<span class="contents-expand-title">Contents</span>
+			</button>
+			<button type="button" class="ap-collapse-behavior ap-expanded button" data-bi-name="ap-collapse" aria-controls="action-panel">
+				<span class="icon"><span class="docon docon-exit-mode" aria-hidden="true"></span></span>
+				<span>Exit focus mode</span>
+			</button>
+		</div>
+	</div>
+
+	<div id="disclaimer-holder" class="has-overflow-hidden has-default-focus"></div>
+	</div>
+
+	<div class="mainContainer  uhf-container is-full  has-default-focus" data-bi-name="body">
+
+		<div class="columns has-large-gaps is-gapless-mobile  is-gapless">
+
+
+			<section class="primary-holder column ">
+				<div class="columns is-gapless-mobile has-large-gaps  is-gapless">
+
+
+				<div id="main-column" class="column ">
+
+					<main id="main" role="main" class="content " data-bi-name="content" lang="en-us" dir="ltr">
+
+
+
+						
+
+
+						<!-- <content> -->
+							<section class="home-greeting-container uhf-container">
+    <h1>Microsoft Docs</h1>
+    <p class="mobile-hidden">docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.</p>
+    <a href="#docs-directory" class="mobile-show" data-linktype="self-bookmark">
+        <h3>Docs directory <span class="chevron"></span></h3>
+    </a>
+</section>
+<nav class="home-nav-container">
+    <a class="has-background-windows has-inner-focus" href="/en-us/windows/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_windows-white.svg" alt="Windows" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-azure has-inner-focus" href="/en-us/azure/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_azure-white.svg" alt="Microsoft Azure" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-visual-studio has-inner-focus" href="/en-us/visualstudio/products/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_visualstudio-white.svg" alt="Visual Studio" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-office has-inner-focus" href="/en-us/office/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_office-white.svg" alt="Office" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-m365 has-inner-focus" href="/en-us/microsoft-365/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo-microsoft-365-white.svg" alt="Microsoft 365" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-dotnet has-inner-focus" href="/en-us/dotnet/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_dotnet-white.svg" alt=".NET" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-aspnet has-inner-focus" href="/en-us/aspnet/core/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_aspnet-white.svg" alt="ASP.NET" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-sql has-inner-focus" href="/en-us/sql/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_sqlserver-white.svg" alt="SQL" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-enterprise-mobility-security has-inner-focus" href="/en-us/enterprise-mobility-security/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_enterprisemobility-white.svg" alt="Enterprise Mobility Security" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-surface has-inner-focus" href="/en-us/surface/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_surface-white.svg" alt="Microsoft Surface" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-dynamics has-inner-focus" href="/en-us/dynamics365/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_dynamics-white.svg" alt="Dynamics 365" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-xamarin has-inner-focus" href="/en-us/xamarin/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_xamarin-white.svg" alt="Xamarin" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-windows has-inner-focus" href="/en-us/azure/devops/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo-azure-devops-white.svg" alt="Azure DevOps" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-system-center has-inner-focus" href="/en-us/system-center/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_systemcenter-white.svg" alt="System Center" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-powershell has-inner-focus" href="/en-us/powershell/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_powershell-white.svg" alt="Powershell" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-graph has-inner-focus" href="/en-us/graph/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo-microsoft-graph-white.svg" alt="Microsoft Graph" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-education has-inner-focus" href="/en-us/education/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo_ms-education-white.svg" alt="Microsoft Education" data-linktype="absolute-path">
+    </a>
+    <a class="has-background-gaming has-inner-focus" href="/en-us/gaming/" data-linktype="absolute-path">
+        <img src="/en-us/media/logos/logo-gaming-white.svg" alt="Gaming" data-linktype="absolute-path">
+    </a>
+</nav>
+<section class="directory-container uhf-container">
+        <h2 id="docs-directory">Docs Directory</h2>
+        <div class="directory-cols">
+            <ul class="noBullet">
+                <li>
+                    <a class="barLink" href="/en-us/dotnet/" data-linktype="absolute-path">.NET</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/adaptive-cards/" data-linktype="absolute-path">Adaptive Cards</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/aspnet/core/" data-linktype="absolute-path">ASP.NET</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/azure/" data-linktype="absolute-path">Azure</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/azure/architecture/" data-linktype="absolute-path">Azure Architecture Center</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/bot-framework/" data-linktype="absolute-path">Azure Bot Service</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/azure/devops/" data-linktype="absolute-path">Azure DevOps</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/azure/developer/github/github-actions" data-linktype="absolute-path">Azure GitHub Actions</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/azure/iot-fundamentals/" data-linktype="absolute-path">Azure IoT Central</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/azure-sphere/" data-linktype="absolute-path">Azure Sphere</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/bingmaps/" data-linktype="absolute-path">Bing Maps</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/biztalk/" data-linktype="absolute-path">Biztalk Server</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/cpp/" data-linktype="absolute-path">C++</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/dotnet/csharp/" data-linktype="absolute-path">C#</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/azure/cloud-adoption-framework/" data-linktype="absolute-path">Cloud Adoption Framework for Azure</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/cognitive-toolkit/" data-linktype="absolute-path">Cognitive Toolkit (CNTK)</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/common-data-service/" data-linktype="absolute-path">Common Data Service</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/cortana/skills/" data-linktype="absolute-path">Cortana Skills</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/partner-center/dashboard/" data-linktype="absolute-path">Dashboard Services</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/dynamics365/" data-linktype="absolute-path">Dynamics 365</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/enterprise-mobility-security/" data-linktype="absolute-path">Enterprise Mobility + Security</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/ef/" data-linktype="absolute-path">Entity Framework</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/exchange/" data-linktype="absolute-path">Exchange</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/dotnet/fsharp/" data-linktype="absolute-path">F#</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/HealthBot/" data-linktype="absolute-path">HealthBot</a>
+                </li>       
+                <li>
+                    <a class="barLink" href="/en-us/iis/" data-linktype="absolute-path">Internet Information Services</a>
+                </li>        
+            </ul>
+            <ul class="noBullet">  
+                <li>
+                    <a class="barLink" href="/en-us/microsoft-365-business/" data-linktype="absolute-path">Microsoft 365 Business</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/microsoft-365-enterprise/" data-linktype="absolute-path">Microsoft 365 Enterprise</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/advertising/" data-linktype="absolute-path">Microsoft Advertising</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/microsoft-edge/" data-linktype="absolute-path">Microsoft Edge</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/education/" data-linktype="absolute-path">Microsoft Education</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/configmgr/" data-linktype="absolute-path">Microsoft Endpoint Configuration Manager</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/mem/" data-linktype="absolute-path">Microsoft Endpoint Manager</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/fasttrack/" data-linktype="absolute-path">Microsoft FastTrack</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/forms-pro/" data-linktype="absolute-path">Microsoft Forms Pro</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/graph/overview" data-linktype="absolute-path">Microsoft Graph</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/powershell/high-performance-computing/" data-linktype="absolute-path">Microsoft HPC Pack 2016</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/office365/kaizala/" data-linktype="absolute-path">Microsoft Kaizala</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/mem/intune/" data-linktype="absolute-path">Microsoft Intune</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/lifecycle/" data-linktype="absolute-path">Microsoft Lifecycle Policy</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/machine-learning-server/" data-linktype="absolute-path">Microsoft Machine Learning Server</a>
+                </li>                
+                <li>
+                    <a class="barLink" href="/en-us/microsoft-365/managed-desktop/" data-linktype="absolute-path">Microsoft Managed Desktop</a>
+                </li>
+                <li>
+                  <a class="barLink" href="/en-us/quantum/" data-linktype="absolute-path">Microsoft Quantum Development</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/microsoftsearch/" data-linktype="absolute-path">Microsoft Search</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/security/" data-linktype="absolute-path">Microsoft Security</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/security-updates/" data-linktype="absolute-path">Microsoft Security Response Center</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/stream/" data-linktype="absolute-path">Microsoft Stream</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/surface/" data-linktype="absolute-path">Microsoft Surface</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/microsoftteams/" data-linktype="absolute-path">Microsoft Teams</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/workplace-analytics/" data-linktype="absolute-path">Microsoft Workplace Analytics and MyAnalytics</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/dotnet/machine-learning/" data-linktype="absolute-path">ML.NET</a>
+                </li>                
+                <li>
+                    <a class="barLink" href="/en-us/nuget/" data-linktype="absolute-path">NuGet</a>
+                </li>
+            </ul>
+            <ul class="noBullet">
+                <li>
+                    <a class="barLink" href="/en-us/office/" data-linktype="absolute-path">Office</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/office365/" data-linktype="absolute-path">Office 365</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/onedrive/" data-linktype="absolute-path">OneDrive</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/openspecs/" data-linktype="absolute-path">Open Specifications</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/playready/" data-linktype="absolute-path">PlayReady</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/powerapps/" data-linktype="absolute-path">Power Apps</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/power-automate/" data-linktype="absolute-path">Power Automate</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/power-bi/" data-linktype="absolute-path">Power BI</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/power-platform/" data-linktype="absolute-path">Power Platform</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/power-query/" data-linktype="absolute-path">Power Query</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/powershell/" data-linktype="absolute-path">PowerShell</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/power-virtual-agents/" data-linktype="absolute-path">Power Virtual Agents</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/project/" data-linktype="absolute-path">Project</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/sharepoint/" data-linktype="absolute-path">SharePoint</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/skypeforbusiness/" data-linktype="absolute-path">Skype for Business</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/sql/" data-linktype="absolute-path">SQL Server</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/system-center/" data-linktype="absolute-path">System Center</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/virtualization/" data-linktype="absolute-path">Virtualization</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/dotnet/visual-basic/" data-linktype="absolute-path">Visual Basic</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/visualstudio/products/" data-linktype="absolute-path">Visual Studio</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/appcenter/" data-linktype="absolute-path">Visual Studio App Center</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/visualstudio/" data-linktype="absolute-path">Visual Studio IDE</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/windows/" data-linktype="absolute-path">Windows</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/xamarin/" data-linktype="absolute-path">Xamarin</a>
+                </li>
+                <li>
+                    <a class="barLink" href="/en-us/yammer/" data-linktype="absolute-path">Yammer</a>
+                </li>
+            </ul>
+        </div>
+</section>
+
+						<!-- </content> -->
+
+						</main>
+
+						<!-- recommended content page section -->
+
+
+						<!-- end recommended content page section -->
+
+						<!-- page rating section -->
+						<!-- end page rating section -->
+
+
+						<!-- feedback section -->
+
+						<!-- end feedback section -->
+
+						<!-- feedback report section -->
+						<!-- end feedback report section -->
+
+						<div class="footerContainer is-visible-interactive has-default-focus ">
+<footer id="footer-interactive" data-bi-name="footer" class="footer-layout">
+
+    <div class="is-flex is-full-height has-padding-right-extra-large-desktop">
+			<a data-mscc-ic="false" class="locale-selector-link has-flex-shrink-none" href="#" data-bi-name="select-locale"><span class="icon docon docon-world is-size-large has-margin-right-small" aria-hidden="true"></span><span class="local-selector-link-text"></span></a>
+		<div class="has-margin-left-medium has-margin-right-medium has-flex-shrink-none">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button is-transparent is-small is-icon-only-touch has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu-interactive" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu-interactive" role="menu">
+		<ul class="theme-selector has-padding-small">
+			<li class="theme is-block">
+				<button class="button is-text is-small theme-control is-fullwidth has-flex-justify-content-start"
+					data-theme-to="light">
+					<span class="theme-light has-margin-right-small">
+						<span
+							class="theme-selector-icon css-variable-support has-border is-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span role="menuitem">
+Light					</span>
+				</button>
+			</li>
+			<li class="theme is-block">
+				<button class="button is-text is-small theme-control is-fullwidth has-flex-justify-content-start"
+					data-theme-to="dark">
+					<span class="theme-dark has-margin-right-small">
+						<span
+							class="has-border theme-selector-icon css-variable-support is-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span role="menuitem">
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme is-block">
+				<button class="button is-text is-small theme-control is-fullwidth has-flex-justify-content-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast has-margin-right-small">
+						<span
+							class="has-border theme-selector-icon css-variable-support is-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span role="menuitem">
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+
+    <ul class="links" data-bi-name="footerlinks">
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/previous-versions/" data-bi-name="archivelink">Previous Version Docs</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/teamblog" data-bi-name="bloglink">Blog</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/contribute" data-bi-name="contributorGuide">Contribute</a></li>
+				<li><a data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy &amp; Cookies</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+		<li><a data-mscc-ic="false" href="https://aka.ms/sitefeedback" data-bi-name="feedback">Site Feedback</a></li>
+			<li><a data-mscc-ic="false" href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2020</li>
+    </ul>
+</footer>
+						</div>
+					</div>
+
+
+					<!--end of div.columns -->
+				</div>
+
+			<!--end of .primary-holder -->
+			</section>
+
+			<aside id="interactive-container" class="interactive-container is-visible-interactive column has-body-background-dark ">
+			</aside>
+		</div>
+
+		<!--end of .mainContainer -->
+	</div>
+
+	<div id="openFeedbackContainer" class="openfeedback-container"></div>
+
+	<div class="footerContainer has-default-focus is-hidden-interactive ">
+<section class="site-resources">
+    <div class="site-resources-inner uhf-container">
+        <h2>Resources</h2>
+        <ul class="links">
+            <li>
+                <a href="https://channel9.msdn.com/">Video Learning</a>
+            </li>
+            <li>
+                <a href="https://startups.microsoft.com/">Startups</a>
+            </li>
+            <li>
+                <a href="https://azureforeducation.microsoft.com/en-us/Institutions">Students</a>
+            </li>
+            <li>
+                <a href="https://docs.microsoft.com/samples/">Code Samples</a>
+            </li>
+        </ul>
+    </div>
+</section>
+<footer id="footer" data-bi-name="footer" class="footer-layout uhf-container has-padding" role="contentinfo">
+
+    <div class="is-flex is-full-height has-padding-right-extra-large-desktop">
+			<a data-mscc-ic="false" class="locale-selector-link has-flex-shrink-none" href="#" data-bi-name="select-locale"><span class="icon docon docon-world is-size-large has-margin-right-small" aria-hidden="true"></span><span class="local-selector-link-text"></span></a>
+		<div class="has-margin-left-medium has-margin-right-medium has-flex-shrink-none">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button is-transparent is-small is-icon-only-touch has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu" role="menu">
+		<ul class="theme-selector has-padding-small">
+			<li class="theme is-block">
+				<button class="button is-text is-small theme-control is-fullwidth has-flex-justify-content-start"
+					data-theme-to="light">
+					<span class="theme-light has-margin-right-small">
+						<span
+							class="theme-selector-icon css-variable-support has-border is-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span role="menuitem">
+Light					</span>
+				</button>
+			</li>
+			<li class="theme is-block">
+				<button class="button is-text is-small theme-control is-fullwidth has-flex-justify-content-start"
+					data-theme-to="dark">
+					<span class="theme-dark has-margin-right-small">
+						<span
+							class="has-border theme-selector-icon css-variable-support is-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span role="menuitem">
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme is-block">
+				<button class="button is-text is-small theme-control is-fullwidth has-flex-justify-content-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast has-margin-right-small">
+						<span
+							class="has-border theme-selector-icon css-variable-support is-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span role="menuitem">
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+    <ul class="links" data-bi-name="footerlinks">
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/previous-versions/" data-bi-name="archivelink">Previous Version Docs</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/teamblog" data-bi-name="bloglink">Blog</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/contribute" data-bi-name="contributorGuide">Contribute</a></li>
+				<li><a data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy &amp; Cookies</a></li>
+		<li><a data-mscc-ic="false" href="https://docs.microsoft.com/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+		<li><a data-mscc-ic="false" href="https://aka.ms/sitefeedback" data-bi-name="feedback">Site Feedback</a></li>
+			<li><a data-mscc-ic="false" href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2020</li>
+    </ul>
+</footer>
+	</div>
+
+	<div id="action-panel" role="region" aria-label="Action Panel" class="action-panel has-default-focus" tabindex="-1"></div>
+	<span id="adobe-target-experiment-container" hidden></span>
+</body>
+</html>

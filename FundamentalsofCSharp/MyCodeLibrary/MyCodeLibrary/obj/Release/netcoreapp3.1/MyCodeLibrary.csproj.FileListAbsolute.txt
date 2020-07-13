@@ -1,0 +1,8 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/bin/Release/netcoreapp3.1/MyCodeLibrary.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/bin/Release/netcoreapp3.1/MyCodeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/bin/Release/netcoreapp3.1/MyCodeLibrary.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Release/netcoreapp3.1/MyCodeLibrary.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Release/netcoreapp3.1/MyCodeLibrary.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Release/netcoreapp3.1/MyCodeLibrary.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Release/netcoreapp3.1/MyCodeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Release/netcoreapp3.1/MyCodeLibrary.pdb

@@ -1,0 +1,15 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/bin/Debug/netcoreapp3.1/ScrapeClient.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/bin/Debug/netcoreapp3.1/ScrapeClient.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/bin/Debug/netcoreapp3.1/ScrapeClient.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/bin/Debug/netcoreapp3.1/ScrapeClient.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/bin/Debug/netcoreapp3.1/ScrapeClient.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/bin/Debug/netcoreapp3.1/ScrapeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/bin/Debug/netcoreapp3.1/ScrapeLibrary.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.csproj.CopyComplete
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeClient/obj/Debug/netcoreapp3.1/ScrapeClient.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ScrapeClient/1.0.0": {
+        "dependencies": {
+          "ScrapeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ScrapeClient.dll": {}
+        }
+      },
+      "ScrapeLibrary/1.0.0": {
+        "runtime": {
+          "ScrapeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScrapeClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScrapeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

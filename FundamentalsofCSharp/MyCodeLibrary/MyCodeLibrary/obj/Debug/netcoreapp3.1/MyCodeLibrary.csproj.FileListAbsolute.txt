@@ -1,0 +1,9 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/bin/Debug/netcoreapp3.1/MyCodeLibrary.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/bin/Debug/netcoreapp3.1/MyCodeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/bin/Debug/netcoreapp3.1/MyCodeLibrary.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp3.1/MyCodeLibrary.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp3.1/MyCodeLibrary.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp3.1/MyCodeLibrary.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp3.1/MyCodeLibrary.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp3.1/MyCodeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyCodeLibrary/MyCodeLibrary/obj/Debug/netcoreapp3.1/MyCodeLibrary.pdb

@@ -1,0 +1,9 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp3.1/ScrapeLibrary.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp3.1/ScrapeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/bin/Debug/netcoreapp3.1/ScrapeLibrary.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp3.1/ScrapeLibrary.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp3.1/ScrapeLibrary.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp3.1/ScrapeLibrary.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp3.1/ScrapeLibrary.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp3.1/ScrapeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Lesson18/ScrapeLibrary/obj/Debug/netcoreapp3.1/ScrapeLibrary.pdb

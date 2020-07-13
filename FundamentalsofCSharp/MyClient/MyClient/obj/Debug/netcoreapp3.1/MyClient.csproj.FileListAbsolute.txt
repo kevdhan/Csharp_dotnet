@@ -1,0 +1,15 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/bin/Debug/netcoreapp3.1/MyClient.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/bin/Debug/netcoreapp3.1/MyClient.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/bin/Debug/netcoreapp3.1/MyClient.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/bin/Debug/netcoreapp3.1/MyClient.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/bin/Debug/netcoreapp3.1/MyClient.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/bin/Debug/netcoreapp3.1/MyCodeLibrary.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/bin/Debug/netcoreapp3.1/MyCodeLibrary.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.csproj.CopyComplete
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/MyClient/MyClient/obj/Debug/netcoreapp3.1/MyClient.genruntimeconfig.cache

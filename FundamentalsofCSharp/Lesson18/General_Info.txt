@@ -1,0 +1,6 @@
+General Notes:
+1. Lesson18 - created a blank project, in where we added ScrapeClient - a console application and ScrapeLibrary - a class library. Alternative to creating differnet folders and adding references to each other projects. In this case we can just add all the needed files in one project. Making the process of adding references easier because it'll be under Project, instead of having to browse for it.
+
+2. Still need to add ScrapeLibrary reference to ScrapeClient.
+
+3. Need to make sure ScrapeClient is "Set as Startup Project" because you can't execute a library (ScrapeLibrary) 

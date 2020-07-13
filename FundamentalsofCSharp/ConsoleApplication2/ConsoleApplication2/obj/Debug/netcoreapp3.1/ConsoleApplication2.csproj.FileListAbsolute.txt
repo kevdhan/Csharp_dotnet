@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/bin/Debug/netcoreapp3.1/ConsoleApplication2.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/bin/Debug/netcoreapp3.1/ConsoleApplication2.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/bin/Debug/netcoreapp3.1/ConsoleApplication2.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/bin/Debug/netcoreapp3.1/ConsoleApplication2.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/bin/Debug/netcoreapp3.1/ConsoleApplication2.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/obj/Debug/netcoreapp3.1/ConsoleApplication2.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/obj/Debug/netcoreapp3.1/ConsoleApplication2.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/obj/Debug/netcoreapp3.1/ConsoleApplication2.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/obj/Debug/netcoreapp3.1/ConsoleApplication2.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/obj/Debug/netcoreapp3.1/ConsoleApplication2.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/obj/Debug/netcoreapp3.1/ConsoleApplication2.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/ConsoleApplication2/ConsoleApplication2/obj/Debug/netcoreapp3.1/ConsoleApplication2.genruntimeconfig.cache

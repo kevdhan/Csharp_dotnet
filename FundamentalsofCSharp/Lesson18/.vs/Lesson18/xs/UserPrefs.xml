@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{DB528CC2-0839-4709-939B-DEDAB40D0E31}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ScrapeClient/Program.cs">
     <Files>
-      <File FileName="ScrapeLibrary/Class1.cs" Line="29" Column="6" />
-      <File FileName="ScrapeClient/Program.cs" Line="2" Column="1" />
+      <File FileName="ScrapeLibrary/Class1.cs" Line="14" Column="14" />
+      <File FileName="ScrapeClient/Program.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lesson18" expanded="True">
-            <Node name="ScrapeClient" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="ScrapeClient" expanded="True" selected="True" />
             <Node name="ScrapeLibrary" expanded="True" />
           </Node>
         </State>

@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp3.1/EnumsAndSwitch.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp3.1/EnumsAndSwitch.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp3.1/EnumsAndSwitch.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp3.1/EnumsAndSwitch.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/netcoreapp3.1/EnumsAndSwitch.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp3.1/EnumsAndSwitch.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp3.1/EnumsAndSwitch.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp3.1/EnumsAndSwitch.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp3.1/EnumsAndSwitch.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp3.1/EnumsAndSwitch.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp3.1/EnumsAndSwitch.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/netcoreapp3.1/EnumsAndSwitch.genruntimeconfig.cache

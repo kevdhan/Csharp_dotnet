@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/bin/Debug/netcoreapp3.1/TimerExample.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/bin/Debug/netcoreapp3.1/TimerExample.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/bin/Debug/netcoreapp3.1/TimerExample.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/bin/Debug/netcoreapp3.1/TimerExample.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/bin/Debug/netcoreapp3.1/TimerExample.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/obj/Debug/netcoreapp3.1/TimerExample.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/obj/Debug/netcoreapp3.1/TimerExample.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/obj/Debug/netcoreapp3.1/TimerExample.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/obj/Debug/netcoreapp3.1/TimerExample.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/obj/Debug/netcoreapp3.1/TimerExample.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/obj/Debug/netcoreapp3.1/TimerExample.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/TimerExample/TimerExample/obj/Debug/netcoreapp3.1/TimerExample.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E7CDEF7A-F7C0-48EE-BD84-FB722F1913B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimerExample/Program.cs">
+    <Files>
+      <File FileName="TimerExample/Program.cs" Line="55" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimerExample" expanded="True" selected="True">
+            <Node name="TimerExample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TimerExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

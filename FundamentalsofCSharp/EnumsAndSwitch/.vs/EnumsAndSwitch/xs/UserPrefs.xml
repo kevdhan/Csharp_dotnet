@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{51B1DF79-5777-4C08-B71A-277AD91279EB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="EnumsAndSwitch/Program.cs">
     <Files>
-      <File FileName="EnumsAndSwitch/Program.cs" Line="9" Column="47" />
+      <File FileName="EnumsAndSwitch/Program.cs" Line="76" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.EnumsAndSwitch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EnumsAndSwitch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp3.1/HandlingExceptions.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp3.1/HandlingExceptions.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp3.1/HandlingExceptions.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp3.1/HandlingExceptions.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/bin/Debug/netcoreapp3.1/HandlingExceptions.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp3.1/HandlingExceptions.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp3.1/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp3.1/HandlingExceptions.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp3.1/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp3.1/HandlingExceptions.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp3.1/HandlingExceptions.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/HandlingExceptions/HandlingExceptions/obj/Debug/netcoreapp3.1/HandlingExceptions.genruntimeconfig.cache

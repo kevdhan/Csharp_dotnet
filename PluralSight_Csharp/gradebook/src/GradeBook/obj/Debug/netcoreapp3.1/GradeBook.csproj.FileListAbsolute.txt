@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache

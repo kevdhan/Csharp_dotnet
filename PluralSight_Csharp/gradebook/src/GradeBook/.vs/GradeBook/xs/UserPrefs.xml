@@ -1,13 +1,19 @@
 ﻿<Properties StartupConfiguration="{85CAFD15-EE88-407A-BBE6-FB2F11E1CE4C}|Default">
   <MonoDevelop.Ide.ItemProperties.GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Book.cs">
     <Files>
-      <File FileName="Program.cs" Line="11" Column="6" />
+      <File FileName="Program.cs" Line="8" Column="1" />
+      <File FileName="Book.cs" Line="9" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="GradeBook" expanded="True" />
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="GradeBook" expanded="True">
+            <Node name="GradeBook" expanded="True">
+              <Node name="Book.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

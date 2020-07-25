@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{ABBB2E71-9514-48AF-A1C5-E8AF5EE3F80E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/GradeBook.Tests/BookTests (copy).cs">
+    <Files>
+      <File FileName="src/GradeBook/Book.cs" Line="19" Column="24" />
+      <File FileName="test/GradeBook.Tests/BookTests.cs" />
+      <File FileName="test/GradeBook.Tests/BookTests (copy).cs" Line="15" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="gradebook" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="GradeBook" expanded="True" />
+            </Node>
+            <Node name="test" expanded="True">
+              <Node name="GradeBook.Tests" expanded="True">
+                <Node name="BookTests (copy).cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.src.GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

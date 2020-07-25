@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{773D3BC9-E4C7-412A-8FA6-021DCCAA7522}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookTests.cs">
+    <Files>
+      <File FileName="GradeBook.Tests.csproj" Line="21" Column="1" />
+      <File FileName="BookTests.cs" Line="39" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="GradeBook.Tests" expanded="True" selected="True">
+            <Node name="GradeBook.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GradeBook.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

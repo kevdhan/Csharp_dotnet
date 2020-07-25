@@ -28,7 +28,13 @@ namespace GradeBook
             book.AddGrade(89.1);
             book.AddGrade(90.5);
             book.AddGrade(77.5);
-            book.ShowStatistics(); // want this method to show lowest, highest, average grades
+
+            var stats = book.GetStatistics(); // want this method to show lowest, highest, average grades
+
+
+            Console.WriteLine($"Lowest Grade: {stats.Low}");
+            Console.WriteLine($"Highest Grade: {stats.High}");
+            Console.WriteLine($"Average Grade: {stats.Average:N1}");
 
             /* By using abstraction and encapsulation we were able to make the code much cleaner
              * Now, if we were to come back to this code 5 months or years later, we can easily see what we are doing here

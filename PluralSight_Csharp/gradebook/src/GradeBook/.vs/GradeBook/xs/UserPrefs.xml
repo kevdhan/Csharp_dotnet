@@ -2,24 +2,23 @@
   <MonoDevelop.Ide.ItemProperties.GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Book.cs">
     <Files>
-      <File FileName="Program.cs" Line="8" Column="1" />
-      <File FileName="Book.cs" Line="9" Column="6" />
+      <File FileName="Program.cs" Line="37" Column="65" />
+      <File FileName="Book.cs" Line="42" Column="27" />
+      <File FileName="Statistics.cs" Line="12" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="GradeBook" expanded="True">
-            <Node name="GradeBook" expanded="True">
-              <Node name="Book.cs" selected="True" />
-            </Node>
+          <Node name="GradeBook" expanded="True" selected="True">
+            <Node name="GradeBook" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -3,15 +3,15 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
-    class Book
+    public class Book // making the class public to allow access for Unit Tests
     {
         private List<double> grades;
-        private string name;
+        public string Name;
 
         public Book(string name) // constructor method
         {
             grades = new List<double>();
-            this.name = name;
+            Name = name;
         }
 
         /* Method to add grades to grades List
@@ -23,23 +23,23 @@ namespace GradeBook
 
         /* Method to print out lowest, highest, average grades
          */
-        public void ShowStatistics()
+        public Statistics GetStatistics()
         {
-            var avgGrade = 0.0;
-            var highGrade = double.MinValue;
-            var lowGrade = double.MaxValue;
+            var result = new Statistics();
+            result.Average = 0.0;
+            result.High = double.MinValue;
+            result.Low = double.MaxValue;
+
 
             foreach (var grade in grades)
             {
-                lowGrade = Math.Min(grade, lowGrade);
-                highGrade = Math.Max(grade, highGrade);
-                avgGrade += grade;
+                result.Low = Math.Min(grade, result.Low);
+                result.High = Math.Max(grade, result.High);
+                result.Average += grade;
             }
-            avgGrade /= grades.Count;
+            result.Average /= grades.Count;
 
-            Console.WriteLine($"Lowest Grade: {lowGrade}");
-            Console.WriteLine($"Highest Grade: {highGrade}");
-            Console.WriteLine($"Average Grade: {avgGrade}");
+            return result;
         }
     }
 }

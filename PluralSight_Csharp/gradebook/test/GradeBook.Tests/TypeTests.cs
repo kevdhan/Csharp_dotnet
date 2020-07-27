@@ -7,6 +7,33 @@ namespace GradeBook.Tests
     public class TypeTests
     {
         [Fact]
+        public void ValueTypesAlsoPassByValue()
+        {
+            var x = GetInt();
+            // SetInt(x);
+            SetInt(ref x);
+
+            Assert.Equal(42, x); // x is still 3, and not 42
+        }
+
+        private void SetInt(ref int z) // setting value x to 42 by ref
+        {
+            string pizza = "";
+            z = 42;
+        }
+
+        // the value of x is "COPIED" into another variable, in this case z
+        private void SetInt(int z)
+        {
+            z = 42;
+        }
+
+        private int GetInt()
+        {
+            return 3;
+        }
+
+        [Fact]
         public void CSharpCanPassByRef()
         {
             var book1 = GetBook("Book 1");
@@ -14,7 +41,7 @@ namespace GradeBook.Tests
             // this is designed so that the user knows that they are passing by reference
             GetBookSetName(ref book1, "New Name");
 
-            Assert.Equal("Book 1", book1.Name);
+            Assert.Equal("New Name", book1.Name);
 
         }
 
@@ -56,6 +83,19 @@ namespace GradeBook.Tests
             book.Name = name;
         }
 
+        [Fact]
+        public void StringsBehaveLikeValueTypes()
+        {
+            string name = "Kevin";
+            MakeUppercase(name);
+
+            Assert.Equal("KEVIN", name); // WRONG
+        }
+
+        private void MakeUppercase(string parameter)
+        {
+            parameter.ToUpper(); // ToUpper: returns a copy of a string in all upper
+        }
 
         [Fact] // attributes
         public void GetBookReturnsDifferentObjects()

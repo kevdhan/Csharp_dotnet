@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{ABBB2E71-9514-48AF-A1C5-E8AF5EE3F80E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="test/GradeBook.Tests/BookTests (copy).cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/GradeBook.Tests/TypeTests.cs">
     <Files>
-      <File FileName="src/GradeBook/Book.cs" Line="19" Column="24" />
-      <File FileName="test/GradeBook.Tests/BookTests.cs" />
-      <File FileName="test/GradeBook.Tests/BookTests (copy).cs" Line="15" Column="32" />
+      <File FileName="src/GradeBook/Book.cs" Line="15" Column="10" />
+      <File FileName="test/GradeBook.Tests/BookTests.cs" Line="1" Column="1" />
+      <File FileName="test/GradeBook.Tests/TypeTests.cs" Line="89" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
             </Node>
             <Node name="test" expanded="True">
               <Node name="GradeBook.Tests" expanded="True">
-                <Node name="BookTests (copy).cs" selected="True" />
+                <Node name="TypeTests.cs" selected="True" />
               </Node>
             </Node>
           </Node>

@@ -87,14 +87,17 @@ namespace GradeBook.Tests
         public void StringsBehaveLikeValueTypes()
         {
             string name = "Kevin";
-            MakeUppercase(name);
+            var upper_name = MakeUppercase(name); // this new variable will have the name uppercased
 
-            Assert.Equal("KEVIN", name); // WRONG
+
+            // Assert.Equal("KEVIN", name); // WRONG
+            Assert.Equal("Kevin", name);
+            Assert.Equal("KEVIN", upper_name); // CORRECT
         }
 
-        private void MakeUppercase(string parameter)
+        private String MakeUppercase(string parameter)
         {
-            parameter.ToUpper(); // ToUpper: returns a copy of a string in all upper
+            return parameter.ToUpper(); // ToUpper: returns a copy of a string in all upper
         }
 
         [Fact] // attributes

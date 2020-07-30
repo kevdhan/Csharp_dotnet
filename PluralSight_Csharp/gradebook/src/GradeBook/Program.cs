@@ -25,9 +25,43 @@ namespace GradeBook
 
             // utilizing the new class Book
             var book = new Book("Kevin's Grade Book");
-            book.AddGrade(89.1);
-            book.AddGrade(90.5);
-            book.AddGrade(77.5);
+            //book.AddGrade(89.1);
+            //book.AddGrade(90.5);
+            //book.AddGrade(77.5);
+
+            // actual user input
+            while (true)
+            {
+                Console.WriteLine("Enter a grade or 'q' to quit");
+                var input = Console.ReadLine();
+
+                if (input == "q")
+                {
+                    break;
+                }
+
+                // try catch block - trying to add a grade into the gradebook
+                try
+                {
+                    var grade = double.Parse(input);
+                    book.AddGrade(grade);
+                }
+                catch (ArgumentException ex) // exception is thrown within AddGrade method... here we are catching it
+                {
+                    Console.WriteLine(ex.Message);
+                    Console.WriteLine("Argument");
+                }
+                catch (FormatException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    Console.WriteLine("Format");
+                }
+                finally
+                {
+                    // code that will always happen
+                }
+            }
+
 
             var stats = book.GetStatistics(); // want this method to show lowest, highest, average grades
 
@@ -35,12 +69,13 @@ namespace GradeBook
             Console.WriteLine($"Lowest Grade: {stats.Low}");
             Console.WriteLine($"Highest Grade: {stats.High}");
             Console.WriteLine($"Average Grade: {stats.Average:N1}");
+            Console.WriteLine($"The letter grade is {stats.Letter}");
 
             /* By using abstraction and encapsulation we were able to make the code much cleaner
              * Now, if we were to come back to this code 5 months or years later, we can easily see what we are doing here
              */
 
 
-    }
+        }
     }
 }

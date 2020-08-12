@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ekf2/k9g/qAR0vC8bJ/GAA4g9uLZrmvBBMLKKlYY0QD5qK4af+VIM3BTA5dcm8N01MMdKiDW/nOWBbCUeFldJQ==",
+  "dgSpecHash": "3CFB+10EGcF2alfK+RkJ4Xce9Z1j63H8gWv6Wlh6EZdSVuznJNhFpP6FVQbKxantO8z9z6v0xxW8BFFg246sAA==",
   "success": true,
   "projectFilePath": "/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [

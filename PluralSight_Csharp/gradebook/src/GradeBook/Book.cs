@@ -8,6 +8,7 @@ namespace GradeBook
         private List<double> grades;
         public string Name;
 
+
         public Book(string name) // constructor method
         {
             grades = new List<double>();
@@ -15,7 +16,7 @@ namespace GradeBook
         }
 
         // switches and enumeration
-        public void AddLetterGrade(char letter)
+        public void AddGrade(char letter) // used to be AddLetterGrade
         {
             switch (letter)
             {
@@ -39,7 +40,7 @@ namespace GradeBook
 
         /* Method to add grades to grades List
          */
-        public void AddGrade(double grade)
+        public void AddGrade(double grade) // this AddGrade method is different 
         {
             // adding conditionals to make sure code/gradebook does not break
             if (grade <= 100 && grade >= 0) // using AND statement
@@ -49,6 +50,8 @@ namespace GradeBook
             else
             {
                 // Console.WriteLine("Invalid Value");
+
+                // throwing an exception if the grade input is not within the specified range
                 throw new ArgumentException($"Invalid {nameof(grade)}");
             }
         }

@@ -45,6 +45,7 @@ namespace GradeBook
                 {
                     var grade = double.Parse(input);
                     book.AddGrade(grade);
+                    // book.AddGrade('A'); different method than one above
                 }
                 catch (ArgumentException ex) // exception is thrown within AddGrade method... here we are catching it
                 {

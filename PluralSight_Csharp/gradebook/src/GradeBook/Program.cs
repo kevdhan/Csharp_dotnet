@@ -44,9 +44,12 @@ namespace GradeBook
                 try
                 {
                     var grade = double.Parse(input);
+
+                    // same method name, but different signature because different input param
                     book.AddGrade(grade);
                     // book.AddGrade('A'); different method than one above
                 }
+                // important to try and be specific when catching exceptions/errors
                 catch (ArgumentException ex) // exception is thrown within AddGrade method... here we are catching it
                 {
                     Console.WriteLine(ex.Message);
@@ -60,6 +63,7 @@ namespace GradeBook
                 finally
                 {
                     // code that will always happen
+                    Console.WriteLine("In the finally block");
                 }
             }
 

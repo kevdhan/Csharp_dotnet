@@ -6,13 +6,48 @@ namespace GradeBook
     public class Book // making the class public to allow access for Unit Tests
     {
         private List<double> grades;
-        public string Name;
 
+        /* Having public variables can be dangerous/unsecure
+         */
+        // public string Name;
+
+        /*
+        public string Name // creating a property, a method of encapsulating the private variable
+        {
+            get
+            {
+                return name;
+            }
+            set
+            {
+                if((String.IsNullOrEmpty(value)))
+                {
+                    name = value;
+                }
+            }
+        }
+
+        private string name;
+        */
+        public string Name { get; set; } // concise way
+
+        /* 
+         * readonly variable
+         */
+        readonly string category = "Science"; // you can only get value, cannot change
+
+        /*
+         * const field/local (const not considered a variable, cannot be modified)
+         */
+        const string category2 = "Science";
+        public const string CATEGORY = "Science";
 
         public Book(string name) // constructor method
         {
             grades = new List<double>();
             Name = name;
+            category = "";
+            // category2 = ""; --> error because const
         }
 
         // switches and enumeration

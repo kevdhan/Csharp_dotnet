@@ -3,8 +3,35 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
-    public class Book // making the class public to allow access for Unit Tests
+    // inheritance, NamedObject --> Book
+    public class NamedObject : object
     {
+        public NamedObject(string name)
+        {
+            Name = name;
+        }
+
+        public string Name { get; set; }
+    }
+
+    // abstract class, polymorphism
+    // BookBase inherits from NamedObject
+    // here is the foundation of a class book, it should have the ability to add a grade and a Name (inherited by NamedObject)
+    public abstract class Book : NamedObject
+    {
+        public Book(string name) : base(name) // because inheriting from NamedObject which has a constructor, this class must need a constructor too
+        {
+        }
+
+        public abstract void AddGrade(double grade);
+    }
+
+    // book inherits from BookBase
+    public class InMemoryBook : Book // making the class public to allow access for Unit Tests
+    {
+        public delegate void GradeAddedDelegate(object sender, EventArgs args);
+
+
         private List<double> grades;
 
         /* Having public variables can be dangerous/unsecure
@@ -29,7 +56,7 @@ namespace GradeBook
 
         private string name;
         */
-        public string Name { get; set; } // concise way
+
 
         /* 
          * readonly variable
@@ -40,9 +67,9 @@ namespace GradeBook
          * const field/local (const not considered a variable, cannot be modified)
          */
         const string category2 = "Science";
-        public const string CATEGORY = "Science";
+        public const string CATEGORY = "Science"; // convention to write in all caps
 
-        public Book(string name) // constructor method
+        public InMemoryBook(string name) : base(name) // constructor method
         {
             grades = new List<double>();
             Name = name;
@@ -75,12 +102,18 @@ namespace GradeBook
 
         /* Method to add grades to grades List
          */
-        public void AddGrade(double grade) // this AddGrade method is different 
+        public override void AddGrade(double grade) // this AddGrade method is different 
         {
             // adding conditionals to make sure code/gradebook does not break
             if (grade <= 100 && grade >= 0) // using AND statement
             {
                 grades.Add(grade);
+                if (GradeAdded != null) // when grade added is correct
+                {
+                    // this = sending this object
+                    // EventArgs() = TBA
+                    GradeAdded(this, new EventArgs());
+                }
             }
             else
             {
@@ -90,6 +123,9 @@ namespace GradeBook
                 throw new ArgumentException($"Invalid {nameof(grade)}");
             }
         }
+
+        // public event delegate --> GradeAddedDelegate above | Instantiating a GradeAddedDelegate
+        public event GradeAddedDelegate GradeAdded;
 
         /* Method to print out lowest, highest, average grades
          */

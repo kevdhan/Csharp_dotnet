@@ -4,8 +4,45 @@ using GradeBook;
 
 namespace GradeBook.Tests
 {
+    // delegate overview
+    // outline of a method that needs to take in a string and output a string
+    public delegate string WriteLogDelegate(string logMessage);
+
+
     public class TypeTests
     {
+        int count = 0;
+
+        [Fact]
+        public void WriteLogDelegateCanPointToMethod()
+        {
+            WriteLogDelegate log = ReturnMessage;
+            // log = new WriteLogDelegate(ReturnMessage); // instantiating delegate, pointing to another method
+
+            // log is now pointing to method "ReturnMessage"
+            // delegates can point to multiple methods
+            log += ReturnMessage; // log is now pointing to the method "ReturnMessage"
+            log += IncrementCount;
+
+
+            var result = log("Hello!");
+            // Assert.Equal("Hello!", result);
+            Assert.Equal(3, count);
+        }
+
+        string IncrementCount(string message)
+        {
+            count++;
+            return message.ToLower();
+        }
+
+        string ReturnMessage(string message)
+        {
+            count++;
+            return message;
+        }
+
+
         [Fact]
         public void ValueTypesAlsoPassByValue()
         {
@@ -57,6 +94,9 @@ namespace GradeBook.Tests
             var book1 = GetBook("Book 1");
             GetBookSetName(book1, "New Name");
 
+            /*
+             * When pass by value (default), even though you sent off book1 to get its name changed
+             */
             Assert.Equal("Book 1", book1.Name);
 
         }

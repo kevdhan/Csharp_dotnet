@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace GradeBook
 {
@@ -23,7 +24,6 @@ namespace GradeBook
         void AddGrade(double grade); // method
         Statistics GetStatistics();
         string Name { get; }
-        string Taco { get; }
         event GradeAddedDelegate GradeAdded; // instantiation of event GradeAddedDelegate
 
     }
@@ -37,15 +37,55 @@ namespace GradeBook
         {
         }
 
-        public string Taco { get; }
-
-        public virtual event GradeAddedDelegate GradeAdded;
-
+        public abstract event GradeAddedDelegate GradeAdded;
         public abstract void AddGrade(double grade);
+        // doesn't make sense for this method to be virtual if all it does is throw an exception
+        public abstract Statistics GetStatistics();
+    }
 
-        public virtual Statistics GetStatistics()
+    // DiskBook (data saved in a file text)
+    public class DiskBook : Book
+    {
+        public DiskBook(string name) : base(name)
         {
-            throw new NotImplementedException();                                                                                                                                                            
+        }
+
+        public override event GradeAddedDelegate GradeAdded;
+
+        public override void AddGrade(double grade) // remember, AddGrade is Abstract
+        {
+            // making sure once done, object will be disposed, in this case our file
+            // using statement --> similar to try and finally clauses
+            using (var writer = File.AppendText($"{Name}.txt"))
+            {
+                writer.WriteLine(grade); // "replacement for adding grade to List<double>"
+                if(GradeAdded != null)
+                {
+                    GradeAdded(this, new EventArgs());
+                }
+            }
+        }
+
+        /// <summary>
+        /// Opens txt file, reads file and adds values to Statistic object
+        /// </summary>
+        /// <returns> Statistics </returns>
+        public override Statistics GetStatistics()
+        {
+            var result = new Statistics();
+
+            using(var reader = File.OpenText($"{Name}.txt"))
+            {
+                var line = reader.ReadLine(); // reading line from txt file
+                while(line != null)
+                {
+                    var number = double.Parse(line);
+                    result.Add(number);
+                    line = reader.ReadLine();
+                }
+            }
+
+            return result;
         }
     }
 
@@ -55,28 +95,6 @@ namespace GradeBook
         private List<double> grades;
 
         /* Having public variables can be dangerous/unsecure
-         */
-        // public string Name;
-
-        /*
-        public string Name // creating a property, a method of encapsulating the private variable
-        {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                if((String.IsNullOrEmpty(value)))
-                {
-                    name = value;
-                }
-            }
-        }
-
-        private string name;
-        */
-
 
         /* 
          * readonly variable
@@ -132,7 +150,7 @@ namespace GradeBook
                 {
                     // this = sending this object
                     // EventArgs() = TBA
-                    GradeAdded(this, new EventArgs());
+                    GradeAdded(this, new EventArgs()); // invoking GradeAdded method
                 }
             }
             else
@@ -152,9 +170,6 @@ namespace GradeBook
         public override Statistics GetStatistics()
         {
             var result = new Statistics();
-            result.Average = 0.0;
-            result.High = double.MinValue;
-            result.Low = double.MaxValue;
 
 
             /* foreach method
@@ -172,11 +187,8 @@ namespace GradeBook
             */
             for (var idx = 0; idx < grades.Count; idx++)
             {
-                result.Low = Math.Min(grades[idx], result.Low);
-                result.High = Math.Max(grades[idx], result.High);
-                result.Average += grades[idx];
+                result.Add(grades[idx]);
             }
-            result.Average /= grades.Count;
 
 
             /* do while method
@@ -190,29 +202,6 @@ namespace GradeBook
             //    index += 1;
             //}; // last index = count - 1
             //result.Average /= grades.Count;
-
-            switch (result.Average)
-            {
-                case var d when d >= 90.0:
-                    result.Letter = 'A';
-                    break;
-
-                case var d when d >= 80.0:
-                    result.Letter = 'B';
-                    break;
-
-                case var d when d >= 70.0:
-                    result.Letter = 'C';
-                    break;
-
-                case var d when d >= 60.0:
-                    result.Letter = 'D';
-                    break;
-
-                default:
-                    result.Letter = 'F';
-                    break;
-            }
 
             return result;
         }

@@ -24,10 +24,9 @@ namespace GradeBook
 
 
             // utilizing the new class Book
-            var book = new InMemoryBook("Kevin's Grade Book");
-            //book.AddGrade(89.1);
-            //book.AddGrade(90.5);
-            //book.AddGrade(77.5);
+            // var book = new InMemoryBook("Kevin's InMemory Grade Book");
+            var book = new DiskBook("Kevin's Disk Grade Book");
+
 
             book.GradeAdded += OnGradeAdded;
             book.GradeAdded += OnGradeAdded;
@@ -38,6 +37,7 @@ namespace GradeBook
             // actual user input
             EnterGrades(book);
 
+            // returns a Statistics Object
             var stats = book.GetStatistics(); // want this method to show lowest, highest, average grades
 
 

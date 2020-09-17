@@ -14,7 +14,7 @@
         "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/PluralSight_Csharp/gradebook/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kevhan/.config/NuGet/NuGet.Config"
+          "/Users/kevhan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

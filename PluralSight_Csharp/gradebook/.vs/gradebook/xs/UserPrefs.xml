@@ -1,28 +1,12 @@
 ﻿<Properties StartupConfiguration="{ABBB2E71-9514-48AF-A1C5-E8AF5EE3F80E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="src/GradeBook/Book.cs">
     <Files>
-      <File FileName="src/GradeBook/Program.cs" Line="36" Column="38" />
-      <File FileName="src/GradeBook/Book.cs" Line="11" Column="25" />
+      <File FileName="src/GradeBook/Program.cs" Line="66" Column="18" />
+      <File FileName="src/GradeBook/Book.cs" Line="24" Column="42" />
       <File FileName="src/GradeBook/Statistics.cs" />
       <File FileName="test/GradeBook.Tests/BookTests.cs" />
       <File FileName="test/GradeBook.Tests/TypeTests.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="gradebook" expanded="True">
-            <Node name="src" expanded="True">
-              <Node name="GradeBook" expanded="True">
-                <Node name="Book.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="test" expanded="True">
-              <Node name="GradeBook.Tests" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />

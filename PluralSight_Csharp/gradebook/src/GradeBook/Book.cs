@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
+    public delegate void GradeAddedDelegate(object sender, EventArgs args);
+
     // inheritance, NamedObject --> Book
     public class NamedObject : object
     {
@@ -14,24 +16,42 @@ namespace GradeBook
         public string Name { get; set; }
     }
 
+    // interface --> pure abstraction
+    public interface IBook // "I" --> Stands for instantiation, good practice
+    {
+        // instantiating everything a book would need
+        void AddGrade(double grade); // method
+        Statistics GetStatistics();
+        string Name { get; }
+        string Taco { get; }
+        event GradeAddedDelegate GradeAdded; // instantiation of event GradeAddedDelegate
+
+    }
+
     // abstract class, polymorphism
-    // BookBase inherits from NamedObject
+    // Book inherits from NamedObject
     // here is the foundation of a class book, it should have the ability to add a grade and a Name (inherited by NamedObject)
-    public abstract class Book : NamedObject
+    public abstract class Book : NamedObject, IBook 
     {
         public Book(string name) : base(name) // because inheriting from NamedObject which has a constructor, this class must need a constructor too
         {
         }
 
+        public string Taco { get; }
+
+        public virtual event GradeAddedDelegate GradeAdded;
+
         public abstract void AddGrade(double grade);
+
+        public virtual Statistics GetStatistics()
+        {
+            throw new NotImplementedException();                                                                                                                                                            
+        }
     }
 
-    // book inherits from BookBase
-    public class InMemoryBook : Book // making the class public to allow access for Unit Tests
+    // InMemoryBook (data saved in runtime) inherits from Book (abstract class)
+    public class InMemoryBook : Book// making the class public to allow access for Unit Tests
     {
-        public delegate void GradeAddedDelegate(object sender, EventArgs args);
-
-
         private List<double> grades;
 
         /* Having public variables can be dangerous/unsecure
@@ -125,11 +145,11 @@ namespace GradeBook
         }
 
         // public event delegate --> GradeAddedDelegate above | Instantiating a GradeAddedDelegate
-        public event GradeAddedDelegate GradeAdded;
+        public override event GradeAddedDelegate GradeAdded;
 
         /* Method to print out lowest, highest, average grades
          */
-        public Statistics GetStatistics()
+        public override Statistics GetStatistics()
         {
             var result = new Statistics();
             result.Average = 0.0;

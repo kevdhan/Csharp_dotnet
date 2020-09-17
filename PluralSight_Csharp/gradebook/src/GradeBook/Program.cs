@@ -53,7 +53,7 @@ namespace GradeBook
 
         }
 
-        private static void EnterGrades(Book book) // taking in the abstract class Book
+        private static void EnterGrades(IBook book) // taking in the abstract class Book
         {
             while (true)
             {

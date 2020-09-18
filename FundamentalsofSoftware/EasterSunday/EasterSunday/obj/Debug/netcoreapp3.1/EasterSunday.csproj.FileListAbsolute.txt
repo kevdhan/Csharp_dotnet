@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/obj/Debug/netcoreapp3.1/EasterSunday.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/obj/Debug/netcoreapp3.1/EasterSunday.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/obj/Debug/netcoreapp3.1/EasterSunday.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/obj/Debug/netcoreapp3.1/EasterSunday.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/bin/Debug/netcoreapp3.1/EasterSunday.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/bin/Debug/netcoreapp3.1/EasterSunday.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/bin/Debug/netcoreapp3.1/EasterSunday.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/bin/Debug/netcoreapp3.1/EasterSunday.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/bin/Debug/netcoreapp3.1/EasterSunday.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/obj/Debug/netcoreapp3.1/EasterSunday.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/obj/Debug/netcoreapp3.1/EasterSunday.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofSoftware/EasterSunday/EasterSunday/obj/Debug/netcoreapp3.1/EasterSunday.genruntimeconfig.cache

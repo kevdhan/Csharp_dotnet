@@ -26,7 +26,7 @@ namespace GradeBook
             // utilizing the new class Book
             // var book = new InMemoryBook("Kevin's InMemory Grade Book");
             var book = new DiskBook("Kevin's Disk Grade Book");
-
+            Book? book2 = new InMemoryBook(""); // allowing this
 
             book.GradeAdded += OnGradeAdded;
             book.GradeAdded += OnGradeAdded;
@@ -53,7 +53,7 @@ namespace GradeBook
 
         }
 
-        private static void EnterGrades(IBook book) // taking in the abstract class Book
+        private static void EnterGrades(IBook? book) // taking in the abstract class Book
         {
             while (true)
             {

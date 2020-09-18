@@ -1,12 +1,29 @@
 ﻿<Properties StartupConfiguration="{ABBB2E71-9514-48AF-A1C5-E8AF5EE3F80E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/GradeBook/Book.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/GradeBook/Program.cs">
     <Files>
-      <File FileName="src/GradeBook/Program.cs" Line="28" Column="64" />
-      <File FileName="src/GradeBook/Book.cs" Line="58" Column="37" />
-      <File FileName="src/GradeBook/Statistics.cs" Line="1" Column="1" />
+      <File FileName="src/GradeBook/Program.cs" Line="38" Column="31" />
+      <File FileName="src/GradeBook/Book.cs" Line="99" Column="12" />
+      <File FileName="src/GradeBook/Statistics.cs" />
       <File FileName="test/GradeBook.Tests/BookTests.cs" />
       <File FileName="test/GradeBook.Tests/TypeTests.cs" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="gradebook" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="GradeBook" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="test" expanded="True">
+              <Node name="GradeBook.Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />

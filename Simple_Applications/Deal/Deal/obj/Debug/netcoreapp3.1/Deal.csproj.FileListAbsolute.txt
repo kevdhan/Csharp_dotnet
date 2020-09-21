@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/bin/Debug/netcoreapp3.1/Deal.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/bin/Debug/netcoreapp3.1/Deal.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/bin/Debug/netcoreapp3.1/Deal.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/bin/Debug/netcoreapp3.1/Deal.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/bin/Debug/netcoreapp3.1/Deal.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/obj/Debug/netcoreapp3.1/Deal.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/obj/Debug/netcoreapp3.1/Deal.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/obj/Debug/netcoreapp3.1/Deal.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/obj/Debug/netcoreapp3.1/Deal.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/obj/Debug/netcoreapp3.1/Deal.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/obj/Debug/netcoreapp3.1/Deal.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Deal/Deal/obj/Debug/netcoreapp3.1/Deal.genruntimeconfig.cache

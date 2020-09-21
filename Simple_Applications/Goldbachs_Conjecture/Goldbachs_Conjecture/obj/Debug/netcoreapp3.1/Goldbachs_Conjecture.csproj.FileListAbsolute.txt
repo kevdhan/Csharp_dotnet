@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/bin/Debug/netcoreapp3.1/Goldbachs_Conjecture.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/bin/Debug/netcoreapp3.1/Goldbachs_Conjecture.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/bin/Debug/netcoreapp3.1/Goldbachs_Conjecture.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/bin/Debug/netcoreapp3.1/Goldbachs_Conjecture.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/bin/Debug/netcoreapp3.1/Goldbachs_Conjecture.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/obj/Debug/netcoreapp3.1/Goldbachs_Conjecture.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/obj/Debug/netcoreapp3.1/Goldbachs_Conjecture.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/obj/Debug/netcoreapp3.1/Goldbachs_Conjecture.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/obj/Debug/netcoreapp3.1/Goldbachs_Conjecture.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/obj/Debug/netcoreapp3.1/Goldbachs_Conjecture.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/obj/Debug/netcoreapp3.1/Goldbachs_Conjecture.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Goldbachs_Conjecture/Goldbachs_Conjecture/obj/Debug/netcoreapp3.1/Goldbachs_Conjecture.genruntimeconfig.cache

@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{6CF9CD38-F32A-4BD6-9A42-BBE62240743D}|Default">
-  <MonoDevelop.Ide.ItemProperties.Deal PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Deal/Program.cs">
+﻿<Properties StartupConfiguration="{250D35E4-175F-48F9-93CF-FAF8970989CD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DNA/Program.cs">
     <Files>
-      <File FileName="Deal/Program.cs" Line="48" Column="72" />
+      <File FileName="DNA/Program.cs" Line="16" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DNA FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/bin/Debug/netcoreapp3.1/Grid.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/bin/Debug/netcoreapp3.1/Grid.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/bin/Debug/netcoreapp3.1/Grid.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/bin/Debug/netcoreapp3.1/Grid.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/bin/Debug/netcoreapp3.1/Grid.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/obj/Debug/netcoreapp3.1/Grid.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/obj/Debug/netcoreapp3.1/Grid.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/obj/Debug/netcoreapp3.1/Grid.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/obj/Debug/netcoreapp3.1/Grid.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/obj/Debug/netcoreapp3.1/Grid.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/obj/Debug/netcoreapp3.1/Grid.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Grid/Grid/obj/Debug/netcoreapp3.1/Grid.genruntimeconfig.cache

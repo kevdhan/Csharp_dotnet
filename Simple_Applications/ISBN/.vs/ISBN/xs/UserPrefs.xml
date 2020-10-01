@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{BDEBFE37-A4C3-428D-A6BB-CAC6430CEC3D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Grid/Program.cs">
+﻿<Properties StartupConfiguration="{8305F60A-3F64-48A2-AEC6-CE74E7669188}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ISBN/Program.cs">
     <Files>
-      <File FileName="Grid/Program.cs" Line="131" Column="14" />
+      <File FileName="ISBN/Program.cs" Line="8" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Grid FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ISBN FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

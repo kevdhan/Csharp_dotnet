@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/bin/Debug/netcoreapp3.1/Spiral.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/bin/Debug/netcoreapp3.1/Spiral.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/bin/Debug/netcoreapp3.1/Spiral.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/bin/Debug/netcoreapp3.1/Spiral.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/bin/Debug/netcoreapp3.1/Spiral.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/obj/Debug/netcoreapp3.1/Spiral.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/obj/Debug/netcoreapp3.1/Spiral.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/obj/Debug/netcoreapp3.1/Spiral.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/obj/Debug/netcoreapp3.1/Spiral.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/obj/Debug/netcoreapp3.1/Spiral.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/obj/Debug/netcoreapp3.1/Spiral.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/Spiral/Spiral/obj/Debug/netcoreapp3.1/Spiral.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/bin/Debug/netcoreapp3.1/MagicSquare.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/bin/Debug/netcoreapp3.1/MagicSquare.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/bin/Debug/netcoreapp3.1/MagicSquare.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/bin/Debug/netcoreapp3.1/MagicSquare.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/bin/Debug/netcoreapp3.1/MagicSquare.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/obj/Debug/netcoreapp3.1/MagicSquare.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/obj/Debug/netcoreapp3.1/MagicSquare.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/obj/Debug/netcoreapp3.1/MagicSquare.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/obj/Debug/netcoreapp3.1/MagicSquare.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/obj/Debug/netcoreapp3.1/MagicSquare.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/obj/Debug/netcoreapp3.1/MagicSquare.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/MagicSquare/MagicSquare/obj/Debug/netcoreapp3.1/MagicSquare.genruntimeconfig.cache

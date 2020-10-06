@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lR6tqx8AzeGJiRL91fSafh9VPdT1sj6AC6Px95EO5g47jbleAiH1aY9lRolkQPW+SD9e9JqZ8/oL37Zz4Th5Uw==",
+  "success": true,
+  "projectFilePath": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/Poker.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevhan/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/bin/Debug/netcoreapp3.1/Poker.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/bin/Debug/netcoreapp3.1/Poker.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/bin/Debug/netcoreapp3.1/Poker.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/bin/Debug/netcoreapp3.1/Poker.dll
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/bin/Debug/netcoreapp3.1/Poker.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.csproj.CopyComplete
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.dll
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/Debug/netcoreapp3.1/Poker.genruntimeconfig.cache

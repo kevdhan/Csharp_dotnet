@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/BabyNames/BabyNames/BabyNames.csproj",
+      "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/BabyNames.csproj",
       "projectName": "BabyNames",
-      "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/BabyNames/BabyNames/BabyNames.csproj",
+      "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/BabyNames.csproj",
       "packagesPath": "/Users/kevhan/.nuget/packages/",
-      "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/BabyNames/BabyNames/obj/",
+      "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kevhan/.nuget/NuGet/NuGet.Config"

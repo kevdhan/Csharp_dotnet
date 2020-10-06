@@ -10,3 +10,15 @@
 /Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.dll
 /Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.pdb
 /Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.genruntimeconfig.cache
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/bin/Debug/netcoreapp3.1/BabyNames.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/bin/Debug/netcoreapp3.1/BabyNames.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/bin/Debug/netcoreapp3.1/BabyNames.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/bin/Debug/netcoreapp3.1/BabyNames.dll
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/bin/Debug/netcoreapp3.1/BabyNames.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.dll
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/Debug/netcoreapp3.1/BabyNames.genruntimeconfig.cache

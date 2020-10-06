@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/BabyNames.csproj": {}
+    "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/Poker.csproj": {}
   },
   "projects": {
-    "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/BabyNames.csproj": {
+    "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/Poker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/BabyNames.csproj",
-        "projectName": "BabyNames",
-        "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/BabyNames.csproj",
+        "projectUniqueName": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/Poker.csproj",
+        "projectName": "Poker",
+        "projectPath": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/Poker.csproj",
         "packagesPath": "/Users/kevhan/.nuget/packages/",
-        "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/BabyNames/BabyNames/obj/",
+        "outputPath": "/Users/kevhan/Documents/Csharp_dotnet/Application_Projects/Poker/Poker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kevhan/.nuget/NuGet/NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -8,18 +8,6 @@ namespace BabyNames
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine((1910 % 1900) / 10);
-            List<string> testing = new List<string>();
-            testing.Add("a");
-            testing.Add("z");
-            testing.Add("d");
-            testing.Add("r");
-            testing.Sort();
-            foreach (var letter in testing)
-            {
-                Console.WriteLine(letter);
-            }
-
             // prepare Directory of baby names
             Dictionary<string, List<int>> babyDirectory = new Dictionary<string, List<int>>();
 

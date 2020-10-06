@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FD53ABEE-95D4-4AD3-9039-49F7F71E1A70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Poker/Deck.cs">
+    <Files>
+      <File FileName="Poker/Program.cs" Line="21" Column="43" />
+      <File FileName="Poker/Poker.cs" Line="7" Column="10" />
+      <File FileName="Poker/EmptyClass.cs" Line="32" Column="37" />
+      <File FileName="Poker/Deck.cs" Line="25" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Poker" expanded="True">
+            <Node name="Poker" expanded="True">
+              <Node name="EmptyStruct.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Poker FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

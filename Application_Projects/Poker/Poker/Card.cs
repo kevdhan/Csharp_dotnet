@@ -39,7 +39,15 @@ namespace Poker
             {
                 this.Rank = 12;
             }
-            this.Suit = Suit;
+
+            if (Suits.Contains(Suit))
+            {
+                this.Suit = Suit;
+            }
+            else
+            {
+                this.Suit = "S";
+            }
         }
 
         /// <summary>

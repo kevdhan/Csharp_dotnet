@@ -47,9 +47,22 @@ namespace Poker
 
             Console.WriteLine(test2DList[0][0]);
 
-            Console.WriteLine(new Poker(3));
+            Poker pokerGame = new Poker(3);
+            pokerGame.Play();
+            Console.WriteLine(pokerGame);
 
+            List<int> testIntList = new List<int>(new int[]{ 0,1,2,3,4,5,6});
+            testList(testIntList);
+            foreach (var num in testIntList)
+            {
+                Console.Write(num + " ");
+            }
             // Test Area //
+        }
+
+        private static void testList(List<int> testIntList)
+        {
+            testIntList.RemoveRange(0, 2);
         }
     }
 }

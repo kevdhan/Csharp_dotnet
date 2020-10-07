@@ -2,16 +2,16 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Poker/Deck.cs">
     <Files>
       <File FileName="Poker/Program.cs" Line="21" Column="43" />
-      <File FileName="Poker/Poker.cs" Line="7" Column="10" />
-      <File FileName="Poker/EmptyClass.cs" Line="32" Column="37" />
-      <File FileName="Poker/Deck.cs" Line="25" Column="33" />
+      <File FileName="Poker/Poker.cs" Line="7" Column="6" />
+      <File FileName="Poker/Deck.cs" Line="24" Column="14" />
+      <File FileName="Poker/Card.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Poker" expanded="True">
             <Node name="Poker" expanded="True">
-              <Node name="EmptyStruct.cs" selected="True" />
+              <Node name="Deck.cs" selected="True" />
             </Node>
           </Node>
         </State>

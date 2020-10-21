@@ -35,14 +35,16 @@ namespace Poker
 
             // test area
             List<Card> testHand = new List<Card>();
-            testHand.Add(new Card(3, "S"));
-            testHand.Add(new Card(2, "S"));
-            testHand.Add(new Card(2, "S"));
-            testHand.Add(new Card(2, "S"));
-            testHand.Add(new Card(2, "S"));
-            Console.WriteLine($"4 of a kind: {isFourKind(testHand)}");
-            Console.WriteLine((9*Math.Pow(15,5))+(Math.Pow(15,4)*2)+ (Math.Pow(15, 3)*2)
-                +(Math.Pow(15, 2)*2)+ (Math.Pow(15, 1)*2)+ 3);
+            testHand.Add(new Card(6, "S"));
+            testHand.Add(new Card(4, "S"));
+            testHand.Add(new Card(5, "S"));
+            testHand.Add(new Card(5, "S"));
+            testHand.Add(new Card(7, "S"));
+            testHand.Sort((card1, card2) => card2.Rank.CompareTo(card1.Rank));
+            // playerHands[playerIdx].Sort((card1, card2) => card2.Rank.CompareTo(card1.Rank));
+            Console.WriteLine($"1 Pair: {isHighCard(testHand)}");
+            Console.WriteLine((1*Math.Pow(15,5))+(Math.Pow(15,4)*7)+(Math.Pow(15,3)*6)
+                +(Math.Pow(15, 2)*5)+ (Math.Pow(15, 1)*5)+ 4);
             // test area
         }
 
@@ -121,11 +123,12 @@ namespace Poker
                 if (fourkindFlag) // there is a four of a kind
                 {
                     // calculate points
-                    double points = 9*(Math.Pow(15,numCards));
+                    double points = 8*(Math.Pow(15,numCards));
 
-                    // re-organizing hand to restructure for points
+                    // going down player's hand to calculate points
+                    // cardIdx == the index in players hand where condition was met
                     int pointPow = numCards - 1;
-                    int pointLeftOverPow = pointPow - 4;
+                    int pointLeftOverPow = pointPow - 4; // minus 4, b/c 4 cards make 4kind
                     for (int pointIdx = 0; pointIdx < numCards; pointIdx++)
                     {
                         // within range of 4 of a kind
@@ -140,28 +143,152 @@ namespace Poker
                             pointLeftOverPow--;
                         }
                     }
-
-
                     return points; // return actual points
                 }
                 cardIdx++;
             }
             return 0;
         }
-        // Full House - special rule
+        // Full House - 3 Same Cards, 2 same cards - special rule
         private double isFullHouse(List<Card> playerHand)
         {
             return 0;
         }
-        // Flush
-        // Straight
+        // Flush - 5 cards all same suit. Numerical Order does not matter
+        private double isFlush(List<Card> playerHand)
+        {
+            int cardIdx = 0;
+            while (cardIdx + 4 < numCards)
+            {
+                bool flushFlag = true;
+                for (int idxLoop = 1; idxLoop < 5; idxLoop++)
+                {
+                    // check if suits of cards, 5 in a row, match
+                    flushFlag = flushFlag
+                        && (playerHand[cardIdx].Suit == playerHand[cardIdx + idxLoop].Suit);
+                }
+                if (flushFlag) // there is a five of a kind
+                {
+                    // calculate points
+                    double points = 6 * (Math.Pow(15, numCards));
+
+                    // going down player's hand to calculate points
+                    // cardIdx == the index in players hand where condition was met
+                    int pointPow = numCards - 1;
+                    int pointLeftOverPow = pointPow - 5; // minus 5 because 5 cards make a flush
+                    for (int pointIdx = 0; pointIdx < numCards; pointIdx++)
+                    {
+                        // within range of 5 cards w/same suits
+                        if (pointIdx >= cardIdx && pointIdx <= cardIdx + 4)
+                        {
+                            points += playerHand[pointIdx].Rank * Math.Pow(15, pointPow);
+                            pointPow--;
+                        }
+                        else // leftover card
+                        {
+                            points += playerHand[pointIdx].Rank * Math.Pow(15, pointLeftOverPow);
+                            pointLeftOverPow--;
+                        }
+                    }
+                    return points; // return actual points
+                }
+                cardIdx++;
+            }
+            return 0;
+        }
+        // Straight - 5 cards in numerical order, but not all same suit
         // 3 of a kind - special rule
         // 2 pair - special rule
+        private double isTwoPair(List<Card> playerHand)
+        {
+            int cardIdx = 0;
+            while (cardIdx + 1 < numCards)
+            {
+                // check if pair, check 2 cards
+                bool onePairFlag = playerHand[cardIdx].Rank == playerHand[cardIdx + 1].Rank;
+                Console.WriteLine($"{onePairFlag}: {playerHand[cardIdx].Rank}, {cardIdx}");
+                if (onePairFlag) // there is a pair
+                {
+                    // calculate points
+                    double points = 2 * (Math.Pow(15, numCards));
+
+                    // going down player's hand to calculate points
+                    // cardIdx == the index in players hand where condition was met
+                    int pointPow = numCards - 1;
+                    int pointLeftOverPow = pointPow - 2; // minus 2 b/c 2 cards make a flush
+                    for (int pointIdx = 0; pointIdx < numCards; pointIdx++)
+                    {
+                        // within range of 2 cards w/same rank
+                        if (pointIdx >= cardIdx && pointIdx <= cardIdx + 1)
+                        {
+                            points += playerHand[pointIdx].Rank * Math.Pow(15, pointPow);
+                            pointPow--;
+                        }
+                        else // leftover card
+                        {
+                            points += playerHand[pointIdx].Rank * Math.Pow(15, pointLeftOverPow);
+                            pointLeftOverPow--;
+                        }
+                    }
+                    return points; // return actual points
+                }
+                cardIdx++;
+            }
+            return 0;
+        }
         // 1 pair - special rule
+        private double isOnePair(List<Card> playerHand)
+        {
+            int cardIdx = 0;
+            while (cardIdx + 1 < numCards)
+            {
+                // check if pair, check 2 cards
+                bool onePairFlag = playerHand[cardIdx].Rank == playerHand[cardIdx + 1].Rank;
+                Console.WriteLine($"{onePairFlag}: {playerHand[cardIdx].Rank}, {cardIdx}");
+                if (onePairFlag) // there is a pair
+                {
+                    // calculate points
+                    double points = 2 * (Math.Pow(15, numCards));
+
+                    // going down player's hand to calculate points
+                    // cardIdx == the index in players hand where condition was met
+                    int pointPow = numCards - 1;
+                    int pointLeftOverPow = pointPow - 2; // minus 2 b/c 2 cards make a flush
+                    for (int pointIdx = 0; pointIdx < numCards; pointIdx++)
+                    {
+                        // within range of 2 cards w/same rank
+                        if (pointIdx >= cardIdx && pointIdx <= cardIdx + 1)
+                        {
+                            points += playerHand[pointIdx].Rank * Math.Pow(15, pointPow);
+                            pointPow--;
+                        }
+                        else // leftover card
+                        {
+                            points += playerHand[pointIdx].Rank * Math.Pow(15, pointLeftOverPow);
+                            pointLeftOverPow--;
+                        }
+                    }
+                    return points; // return actual points
+                }
+                cardIdx++;
+            }
+            return 0;
+        }
         // High Card
+        private double isHighCard(List<Card> playerHand)
+        {
+            var points = Math.Pow(15, numCards);
+            var pointPow = numCards - 1;
+            // calculating points for hand
+            for (int cardIdx = 0; cardIdx < numCards; cardIdx++, pointPow--)
+            {
+                points += (playerHand[cardIdx].Rank * Math.Pow(15, pointPow));
+            }
+            return points;
+        }
 
         /// <summary>
-        /// sorting the hands of each player
+        /// sorting the hands of each player, in descending order by Rank
         /// </summary>
         private void sortPlayerHands()
         {

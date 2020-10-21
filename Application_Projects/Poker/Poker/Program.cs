@@ -57,6 +57,8 @@ namespace Poker
             {
                 Console.Write(num + " ");
             }
+
+            Console.WriteLine();
             // Test Area //
         }
 

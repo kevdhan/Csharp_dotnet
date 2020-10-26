@@ -17,6 +17,7 @@ The following are the hands possible, in descending order of how much each hand 
 Some things that were considered:
 - Code was implemented so that the number of cards each player has (5) was not hard coded, so that when later changing the number of cards each player could hold was changed that only that variable needed to change, and everything else could stay as is. 
 - Something that I considered was, is it necessary to make the code for this specific project hard coded, when I know for most of the time only 5 cards will be dealt. More time and resources was necessary to make the code more general to be able to fit more random use cases.
+- For methods handling calculating hands (e.g. Full House, Straight, Two Pair, etc.), there needs to be a better uniform approach. When time permits, need to go back and make code more similar to one another.
 
 How it works:
 1. Program will prompt user for the # of players

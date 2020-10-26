@@ -7,20 +7,27 @@ namespace Poker
     {
         private Deck deck;
         private List<List<Card>> playerHands;
-        private List<double> playerPoints;
+        private List<(string Hand, double Point)> playerPoints; 
         private const int numCards = 5;
         private int numPlayers;
 
         public Poker(int numPlayers)
         {
-            // instantiating number of players
-            this.numPlayers = numPlayers;
             // creating a new shuffled deck
             deck = new Deck();
+
+            if (numPlayers < 1 || numPlayers > (deck.DeckSize()/numPlayers))
+            {
+                throw new ArgumentOutOfRangeException($"Number of Players must be greather >= 1 " +
+                     $" and <= {deck.DeckSize() / numCards}");
+            }
+
+            // instantiating number of players
+            this.numPlayers = numPlayers;
             // creating players
             playerHands = new List<List<Card>>();
             // instantiating player points
-            playerPoints = new List<double>(numPlayers);
+            playerPoints = new List<(string, double)>();
             
         }
 
@@ -31,20 +38,44 @@ namespace Poker
         {
             deal();
             sortPlayerHands();
-            //getAllPlayerPoints();
+            getAllPlayerPoints();
+            printGame();
+        }
 
-            // test area
-            List<Card> testHand = new List<Card>();
-            testHand.Add(new Card(5, "S"));
-            testHand.Add(new Card(5, "S"));
-            testHand.Add(new Card(4, "S"));
-            testHand.Add(new Card(5, "S"));
-            testHand.Add(new Card(4, "S"));
-            testHand.Sort((card1, card2) => card2.Rank.CompareTo(card1.Rank));
-            Console.WriteLine($"2 Pair: {isRoyalFlush(testHand)}");
-            Console.WriteLine((7*Math.Pow(15,5))+(Math.Pow(15,4)*5)+(Math.Pow(15,3)*5)
-                +(Math.Pow(15, 2)*5)+ (Math.Pow(15, 1)*4)+ 4);
-            // test area
+        private void printGame()
+        {
+            // print out player's card
+            for (int playerIdx = 0; playerIdx < numPlayers; playerIdx++)
+            {
+                Console.Write($"Player{playerIdx+1}:");
+                var playerHand = playerHands[playerIdx];
+                // printing each player's cards
+                for (int cardIdx = 0; cardIdx < numCards; cardIdx++)
+                {
+                    Console.Write($" {playerHand[cardIdx]}");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            // print out player's highest hand, and determine who won
+            double highestPoint = 0;
+            int winner = 0;
+            for (int playerIdx = 0; playerIdx < numPlayers; playerIdx++)
+            {
+                Console.WriteLine($"Player{playerIdx + 1}: {playerPoints[playerIdx].Hand}");
+
+                // checking for which player had highest point
+                if (playerPoints[playerIdx].Point > highestPoint)
+                {
+                    highestPoint = playerPoints[playerIdx].Point;
+                    winner = playerIdx;
+                }
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine($"Player {winner + 1} wins");
         }
 
         /// <summary>
@@ -57,7 +88,46 @@ namespace Poker
             {
                 // need to check from Royal Flush to Single Hand
                 var playerHand = playerHands[playerIdx];
-                
+                if (isRoyalFlush(playerHand) != 0)
+                {
+                    playerPoints.Add(("Royal Flush", isRoyalFlush(playerHand)));
+                }
+                else if (isStraightFlush(playerHand) != 0)
+                {
+                    playerPoints.Add(("Straight Flush",isStraightFlush(playerHand)));
+                }
+                else if (isFourKind(playerHand) != 0)
+                {
+                    playerPoints.Add(("Four of a Kind",isFourKind(playerHand)));
+                }
+                else if (isFullHouse(playerHand) != 0)
+                {
+                    playerPoints.Add(("Full House", isFullHouse(playerHand)));
+                }
+                else if (isFlush(playerHand) != 0)
+                {
+                    playerPoints.Add(("Flush", isFlush(playerHand)));
+                }
+                else if (isStraight(playerHand) != 0)
+                {
+                    playerPoints.Add(("Straight", isStraight(playerHand)));
+                }
+                else if (isThreeKind(playerHand) != 0)
+                {
+                    playerPoints.Add(("Three of a Kind", isThreeKind(playerHand)));
+                }
+                else if (isTwoPair(playerHand) != 0)
+                {
+                    playerPoints.Add(("Two Pair", isTwoPair(playerHand)));
+                }
+                else if (isOnePair(playerHand) != 0)
+                {
+                    playerPoints.Add(("One Pair", isOnePair(playerHand)));
+                }
+                else
+                {
+                    playerPoints.Add(("High Card", isHighCard(playerHand)));
+                }
             }
         }
 
@@ -483,6 +553,7 @@ namespace Poker
             }
 
             // populating each players hand, round robin style
+            // round robin - each player gets 1 card each round
             for (int num = 0; num < numCards; num++)
             {
                 for (int playerIdx = 0; playerIdx < numPlayers; playerIdx++)

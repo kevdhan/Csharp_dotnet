@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{95C3F54A-68FE-422A-B2E6-921F80B36527}|Default">
+  <MonoDevelop.Ide.ItemProperties.TopTenPopulation FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TopTenPopulation/CsvReader.cs">
+    <Files>
+      <File FileName="TopTenPopulation/Program.cs" Line="17" Column="76" />
+      <File FileName="TopTenPopulation/CsvReader.cs" Line="23" Column="27" />
+      <File FileName="TopTenPopulation/Country.cs" />
+      <File FileName="TopTenPopulation/PopulationFormatter.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TopTenPopulation" expanded="True">
+            <Node name="TopTenPopulation" expanded="True">
+              <Node name="CsvReader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

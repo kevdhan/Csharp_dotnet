@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/bin/Debug/netcoreapp3.1/TopTenPopulation.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/bin/Debug/netcoreapp3.1/TopTenPopulation.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/bin/Debug/netcoreapp3.1/TopTenPopulation.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/bin/Debug/netcoreapp3.1/TopTenPopulation.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/bin/Debug/netcoreapp3.1/TopTenPopulation.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/obj/Debug/netcoreapp3.1/TopTenPopulation.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/obj/Debug/netcoreapp3.1/TopTenPopulation.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/obj/Debug/netcoreapp3.1/TopTenPopulation.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/obj/Debug/netcoreapp3.1/TopTenPopulation.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/obj/Debug/netcoreapp3.1/TopTenPopulation.dll
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/obj/Debug/netcoreapp3.1/TopTenPopulation.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Simple_Applications/TopTenPopulation/TopTenPopulation/obj/Debug/netcoreapp3.1/TopTenPopulation.genruntimeconfig.cache

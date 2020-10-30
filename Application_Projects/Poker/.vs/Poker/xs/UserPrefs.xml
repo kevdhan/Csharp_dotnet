@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{FD53ABEE-95D4-4AD3-9039-49F7F71E1A70}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Poker/Poker.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Poker/Program.cs">
     <Files>
-      <File FileName="Poker/Program.cs" Line="1" Column="1" />
-      <File FileName="Poker/Poker.cs" Line="214" Column="1" />
+      <File FileName="Poker/Program.cs" Line="38" Column="18" />
+      <File FileName="Poker/Poker.cs" />
       <File FileName="Poker/Deck.cs" />
       <File FileName="Poker/Card.cs" />
     </Files>

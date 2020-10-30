@@ -1,0 +1,10 @@
+Population, country names and codes have been downloaded from the World Bank at https://databank.worldbank.org/data/home.aspx under the  Creative Commons Attribution 4.0 International License (CC BY 4.0) with additional terms as specified at http://www.worldbank.org/en/about/legal/terms-of-use-for-datasets
+
+Regions have been downloaded and adapted from Github at https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv under the  Creative Commons Attribution-ShareAlike 4.0 International License. Details at   https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/LICENSE.md.  Regions are not in general definitively defined by any standard. Therefore, the regions used in my dataset were manually extracted from this data - taking a combination of regions and subregions and applying some common sense to determine a reasonable region for each country. 
+
+I've merged the two datasets together into a new combined CSV file using a custom app that I wrote for that purpose. As far as I'm aware, no data was changed during the merging process, but I cannot guarantee that changes did not inadvertently creep in, as there is always the small possibility of bugs in the code that I wrote and used to merge the data sets. Hence I explicitly do NOT warrant for the accuracy of this data.
+
+This merged data is intended solely for the purpose of providing a dataset that can be used to demonstrate certain features of .NET collections in this Pluralsight course. If you wish do any work that relies on the accuracy of this data, then you are strongly advised to independently download the data from the sources cited above, and also to ensure that you indepently verify and ensure you comply with the license conditions attached to that data.
+
+Simon Robinson
+18 March 2019

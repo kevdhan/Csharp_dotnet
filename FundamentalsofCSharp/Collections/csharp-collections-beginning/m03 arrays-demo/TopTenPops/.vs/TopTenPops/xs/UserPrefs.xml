@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{00AA9C7E-9EFC-451C-8BBC-FD3A2CD1F2C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.TopTenPops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="15" />
+      <File FileName="Country.cs" Line="1" Column="1" />
+      <File FileName="CsvReader.cs" Line="1" Column="1" />
+      <File FileName="PopulationFormatter.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TopTenPops" expanded="True">
+            <Node name="TopTenPops" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

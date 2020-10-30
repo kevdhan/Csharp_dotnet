@@ -1,0 +1,14 @@
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\TopTenPops\TopTenPops\bin\Debug\TopTenPops.exe.config
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\TopTenPops\TopTenPops\bin\Debug\TopTenPops.exe
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\TopTenPops\TopTenPops\bin\Debug\TopTenPops.pdb
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\TopTenPops\TopTenPops\obj\Debug\TopTenPops.csprojAssemblyReference.cache
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\TopTenPops\TopTenPops\obj\Debug\TopTenPops.csproj.CoreCompileInputs.cache
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\TopTenPops\TopTenPops\obj\Debug\TopTenPops.exe
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\TopTenPops\TopTenPops\obj\Debug\TopTenPops.pdb
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\m03-arrays-demo\TopTenPops\TopTenPops\bin\Debug\TopTenPops.exe.config
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\m03-arrays-demo\TopTenPops\TopTenPops\bin\Debug\TopTenPops.exe
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\m03-arrays-demo\TopTenPops\TopTenPops\bin\Debug\TopTenPops.pdb
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\m03-arrays-demo\TopTenPops\TopTenPops\obj\Debug\TopTenPops.csprojAssemblyReference.cache
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\m03-arrays-demo\TopTenPops\TopTenPops\obj\Debug\TopTenPops.csproj.CoreCompileInputs.cache
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\m03-arrays-demo\TopTenPops\TopTenPops\obj\Debug\TopTenPops.exe
+G:\G_Work\Pluralsight\Courses\Beginning Effective Collections\Code\m03-arrays-demo\TopTenPops\TopTenPops\obj\Debug\TopTenPops.pdb

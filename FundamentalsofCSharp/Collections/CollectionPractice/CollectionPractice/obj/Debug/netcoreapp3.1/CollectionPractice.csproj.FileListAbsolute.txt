@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/bin/Debug/netcoreapp3.1/CollectionPractice.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/bin/Debug/netcoreapp3.1/CollectionPractice.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/bin/Debug/netcoreapp3.1/CollectionPractice.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/bin/Debug/netcoreapp3.1/CollectionPractice.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/bin/Debug/netcoreapp3.1/CollectionPractice.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/obj/Debug/netcoreapp3.1/CollectionPractice.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/obj/Debug/netcoreapp3.1/CollectionPractice.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/obj/Debug/netcoreapp3.1/CollectionPractice.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/obj/Debug/netcoreapp3.1/CollectionPractice.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/obj/Debug/netcoreapp3.1/CollectionPractice.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/obj/Debug/netcoreapp3.1/CollectionPractice.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/Collections/CollectionPractice/CollectionPractice/obj/Debug/netcoreapp3.1/CollectionPractice.genruntimeconfig.cache

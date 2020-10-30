@@ -1,0 +1,9 @@
+Code samples for Beginning C# Collections, by Simon Robinson:
+
+Pop by Largest Final.csv
+This is the CSV data file that is imported by most of the sample demos. Demos have a path to this file hard-coded in the Main() method. When running the samples, you'll need to change that path to reflect whichever folder you install this file to.
+
+License data.txt
+Information about where the data was sourced from and its licensing.
+
+All code was created in VS 2017

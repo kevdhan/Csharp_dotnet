@@ -10,7 +10,9 @@ namespace Practice
 
             decimal decValue = 50.0m;
 
-            //
+            // out reference
+            int.TryParse("480", out int turkey);
+            Console.WriteLine(turkey);
         }
     }
 }

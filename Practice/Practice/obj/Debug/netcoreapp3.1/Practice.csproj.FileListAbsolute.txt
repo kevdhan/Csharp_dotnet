@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.dll
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/bin/Debug/netcoreapp3.1/Practice.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.dll
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.pdb
+/Users/kevhan/Documents/Csharp_dotnet/Practice/Practice/obj/Debug/netcoreapp3.1/Practice.genruntimeconfig.cache

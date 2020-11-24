@@ -1,0 +1,12 @@
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/bin/Debug/netcoreapp3.1/LINQ_Practice.deps.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/bin/Debug/netcoreapp3.1/LINQ_Practice.runtimeconfig.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/bin/Debug/netcoreapp3.1/LINQ_Practice.runtimeconfig.dev.json
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/bin/Debug/netcoreapp3.1/LINQ_Practice.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/bin/Debug/netcoreapp3.1/LINQ_Practice.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/obj/Debug/netcoreapp3.1/LINQ_Practice.csprojAssemblyReference.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/obj/Debug/netcoreapp3.1/LINQ_Practice.AssemblyInfoInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/obj/Debug/netcoreapp3.1/LINQ_Practice.AssemblyInfo.cs
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/obj/Debug/netcoreapp3.1/LINQ_Practice.csproj.CoreCompileInputs.cache
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/obj/Debug/netcoreapp3.1/LINQ_Practice.dll
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/obj/Debug/netcoreapp3.1/LINQ_Practice.pdb
+/Users/kevhan/Documents/Csharp_dotnet/FundamentalsofCSharp/LINQ/LINQ_Practice/LINQ_Practice/obj/Debug/netcoreapp3.1/LINQ_Practice.genruntimeconfig.cache
